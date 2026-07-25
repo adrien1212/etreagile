@@ -99,12 +99,12 @@ export const BuildArgv = {
   },
   port: {
     number: true,
-    default: 8080,
+    default: 8087,
     describe: "port to serve Quartz on",
   },
   wsPort: {
     number: true,
-    default: 3001,
+    default: 3087,
     describe: "port to use for WebSocket-based hot-reload notifications",
   },
   remoteDevHost: {
