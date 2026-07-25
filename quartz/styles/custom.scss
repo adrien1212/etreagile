@@ -154,5 +154,9 @@ h1 {
 }
 
 .explorer button.desktop-explorer {
-    visibility: hidden !important;
+    display: none !important;
+}
+
+a.internal {
+    background-color: white;
 }
