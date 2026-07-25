@@ -1,12 +1,12 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
+  pageTitle: Agile
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
   analytics:
     provider: plausible
-  locale: en-US
+  locale: fr-FR
   baseUrl: etreagile.fr
   ignorePatterns:
     - private
@@ -145,6 +145,9 @@ plugins:
     enabled: true
   - source: "@quartz-community/folder-page"
     enabled: true
+    options:
+      showFolderCount: false
+      showSubfolders: false
   - source: "@quartz-community/tag-page"
     enabled: true
   - source: "@quartz-community/explorer"
@@ -180,7 +183,7 @@ plugins:
       position: beforeBody
       priority: 10
   - source: "@quartz-community/content-meta"
-    enabled: true
+    enabled: false
     layout:
       position: beforeBody
       priority: 20
@@ -257,16 +260,6 @@ plugins:
       position: beforeBody
       priority: 15
       display: all
-  - source: github:quartz-community/explorer
-    enabled: true
-    options:
-      folderDefaultState: collapsed
-      folderClickBehavior: link
-      useSavedState: true
-    order: 50
-    layout:
-      position: left
-      priority: 50
 layout:
   groups:
     toolbar:
@@ -280,11 +273,7 @@ layout:
         left: []
         right: []
     content: {}
-    folder:
-      exclude:
-        - reader-mode
-      positions:
-        right: []
+    folder: {}
     tag:
       exclude:
         - reader-mode
