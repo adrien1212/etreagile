@@ -149,6 +149,10 @@ plugins:
     enabled: true
   - source: "@quartz-community/explorer"
     enabled: true
+    options:
+      folderClickBehavior: link
+      folderDefaultState: open
+      useSavedState: true
     layout:
       position: left
       priority: 50
@@ -253,6 +257,16 @@ plugins:
       position: beforeBody
       priority: 15
       display: all
+  - source: github:quartz-community/explorer
+    enabled: true
+    options:
+      folderDefaultState: collapsed
+      folderClickBehavior: link
+      useSavedState: true
+    order: 50
+    layout:
+      position: left
+      priority: 50
 layout:
   groups:
     toolbar:
