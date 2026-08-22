@@ -21,14 +21,14 @@ Le concepteur du système Kanban doit :
 
 ## Mise en œuvre
 
-C’est une phase de mise en œuvre des outils et pratique. L’équipe se cherche et essaie de
+C’est une phase de mise en œuvre des outils et pratiques. L’équipe se cherche et essaie de
 maîtriser le système mis en place.
 
 ## Étudier
 Kanban ne se résume pas à une boite à outils. Mais de nombreuses équipes ne mesurent pas
 l’enjeu crucial des phases d’étude et d’amélioration qui sont nécessaires pour la pérennité de
 l’équipe et du projet.
-L’équipe Kanban étudie le comportement et les réponses du système au règles établies lors
+L’équipe Kanban étudie le comportement et les réponses du système aux règles établies lors
 de la phase de conception. Pour ce faire, on peut s’appuyer sur différents modèles :
 - théorie des files d’attente pour optimiser le flux de travail
 - théorie des contraintes pour identifier et traiter les goulots d’étranglement
@@ -41,4 +41,4 @@ l’équipe :
 - partage les règles de manière explicite
 - simplifie là où c’est possible
 - met à jour les standards
-- valide les micro ajustements faits au quotidien
+- valide les micro-ajustements faits au quotidien

@@ -11,9 +11,9 @@ weight = 10
 > - [Le lean sans le Jidoka n’est que du fordisme](https://www.institut-lean-france.fr/le-lean-sans-le-jidoka-nest-que-du-fordisme/)
 
 ## Principes
-Le principe du Jidoka consiste à arrêter le travail dès qu’un problème survient afin d’éviter toute production d’éléments défectueux. Cette approche repose sur la détection de d’anomalie au sein même des processus permettant ainsi de construire la qualité dans le produit.
+Le principe du Jidoka consiste à arrêter le travail dès qu’un problème survient afin d’éviter toute production d’éléments défectueux. Cette approche repose sur la détection d’anomalie au sein même des processus permettant ainsi de construire la qualité dans le produit.
 - Le premier axe consiste à régler les problèmes qualité au plus tôt
-![detecter au plutôt](detecter_tot.png)
+![detecter au plus tôt](detecter_tot.png)
 
 - Le second axe consiste à revenir voire supprimer la non-qualité à la source
 
@@ -46,6 +46,6 @@ Si l’on s’intéresse au développement logiciel dans le monde moderne, en pa
   
 On trouve deux expressions clés, celle de *DevOps* et de *software craftsmanship*, qui expriment cette complémentarité et tension.
 
-On remarque également que de nombreux principes peuvent être appliqué au monde logicel :
+On remarque également que de nombreux principes peuvent être appliqués au monde logiciel :
 - le coût de découverte d'un bug en production est plus élevé que lors de la phase de développement
-- l'amélioration continue et le partage sont des éléments essentiel pour la constitution d'équipe Agile
+- l'amélioration continue et le partage sont des éléments essentiels pour la constitution d'équipes Agile

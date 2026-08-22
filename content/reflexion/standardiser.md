@@ -16,7 +16,7 @@ La standardisation permet non seulement d'optimiser l'efficacité opérationnell
 standardize processes across an organization.
 
 ## Contraintes de la standardisation
-Le livre *Modern Software Engineering* souligne deux problèmes majeur de la standardisation :
+Le livre *Modern Software Engineering* souligne deux problèmes majeurs de la standardisation :
 - nuit à la créativité
 - nuit à la prise d'initiative
 
@@ -25,4 +25,4 @@ Or,
 
 
 ## Conclusion
-La façon la plus simple pour provoquer du changement est de standardiser, néanmoins elle n'est pas la plus efficace. En effet, pour avoir une "forte [productivité]({{< relref "agile/productivite" >}})" et délivrer un travail de qualité l'équipe à besoin d'autonomie (voir [Caractéristiques d'une équipe Agile]({{< relref "caracteristique_bonne_equipe" >}}) et [Caractéristiques d'une équipe Scrum]({{< relref "framework_scrum/caracteristique" >}})) et de pouvoir prendre les décisions qui lui sembles bonnes (sans demander la permission).
+La façon la plus simple pour provoquer du changement est de standardiser, néanmoins elle n'est pas la plus efficace. En effet, pour avoir une "forte [productivité]({{< relref "agile/productivite" >}})" et délivrer un travail de qualité l'équipe a besoin d'autonomie (voir [Caractéristiques d'une équipe Agile]({{< relref "caracteristique_bonne_equipe" >}}) et [Caractéristiques d'une équipe Scrum]({{< relref "framework_scrum/caracteristique" >}})) et de pouvoir prendre les décisions qui lui semblent bonnes (sans demander la permission).

@@ -109,7 +109,7 @@ Concerne uniquement les données :
 - Format permettant la réutilisation.
 - Données lisibles par machine.
 
-### Délais et Modalités d'Exercise
+### Délais et Modalités d'Exercice
 
 - **Délai de réponse** : 1 mois (extensible à 3 mois si complexité).
 - **Gratuité du service**

@@ -11,4 +11,4 @@ weight = 99
 | :---------------------------------------------------------------------------: | :-----------------------------------------------------------------------: |
 |         On ne peut pas changer le périmètre au cours d'une itération          |     Si une urgence arrive on peut la prendre dès que le WIP le permet     |
 |                           Pas d'évènements cadencés                           |              Les évènements se font au besoin (just-in-time)              |
-| Flux poussé. Durant le Spring Planning on va décider d'un nombre d'US à faire | Flux tiré. On ajoute dans le Backlog et on le traite dès qu'on peut (WIP) |
+| Flux poussé. Durant le Sprint Planning on va décider d'un nombre d'US à faire | Flux tiré. On ajoute dans le Backlog et on le traite dès qu'on peut (WIP) |

@@ -10,6 +10,6 @@ weight = 1
 - Soit tu fais Scrum, éventuellement augmenté avec des pratiques de Kanban, typiquement un process de travail détaillé avec des WIP limits; j’appelle ça Scrum
 - Soit tu fais Kanban, éventuellement en empruntant des éléments de Scrum, typiquement certains rôles/responsabilités et certains événements (mais pas nécessairement avec la même cadence); j’appelle ça Kanban
 
-Donc rien n'empêche de prendre le meilleur des deux mondes mais pas besoin d'en donner un nom
+Donc rien n'empêche de prendre le meilleur des deux mondes mais pas besoin de lui donner un nom
 - Utiliser Scrum pour le cadre de travail, la co-responsabilité, les évènements, etc…
 - Utiliser Kanban pour améliorer le flux de travail.

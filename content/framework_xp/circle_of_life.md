@@ -29,7 +29,7 @@ L'anneau extérieur représente les pratiques de XP orientées vers l'entreprise
 - **La notion d'équipe large** rappelle qu'une équipe de développement de logiciel réunit des talents très différents (programmeurs, testeurs, chefs d'équipe), œuvrant tous vers un objectif commun.
 
 ## Anneau intermédiaire
->  The middle blue circle contains the important supporting practices of XP. The software is designed according to a common, shared, evolving Metaphor that helps it all hang together. It is kept continuously integrated with many system builds every day. The team shares ownership of of all the code so that needed changes can be made by any qualified pair. [^1]
+>  The middle blue circle contains the important supporting practices of XP. The software is designed according to a common, shared, evolving Metaphor that helps it all hang together. It is kept continuously integrated with many system builds every day. The team shares ownership of all the code so that needed changes can be made by any qualified pair. [^1]
 
 L'anneau intermédiaire du cercle correspond aux pratiques de l'équipe dans son ensemble. À ce niveau, il s'agit de définir les conditions dans lesquelles l'équipe communique en interne et assure sa propre gestion :
 - **Un rythme soutenable** rappelle que l'équipe de développement doit veiller à progresser à un rythme qui lui évite d'épuiser ses ressources, au risque de ne pas pouvoir franchir la ligne d'arrivée.
@@ -41,7 +41,7 @@ L'anneau intermédiaire du cercle correspond aux pratiques de l'équipe dans son
 - **La métaphore** vise à faire prendre conscience de l'importance d'une terminologie rigoureuse adoptée par l'équipe dans ses communications avec ses donneurs d'ordre.
 
 ## Anneau interne
-> The innermost red circle describes the day to day, moment to moment, work of the XP developers. Each feature is addressed with Simple Design. The programmers work in pairs for all production code development, providing continuous code review and valuable. They build the software using Test-Driven Development,and the design is kept clean by the continuous improvement process of Refactoring. [^1]
+> The innermost red circle describes the day to day, moment to moment, work of the XP developers. Each feature is addressed with Simple Design. The programmers work in pairs for all production code development, providing continuous code review and valuable. They build the software using Test-Driven Development, and the design is kept clean by the continuous improvement process of Refactoring. [^1]
 
 Enfin, l'anneau interne du Cercle de vie s'intéresse aux pratiques techniques qui doivent guider les programmeurs et les pousser à toujours chercher le plus haut niveau de qualité technique :
 - **Le travail en binôme** invite les équipiers à partager leurs connaissances, à vérifier mutuellement leur travail, et à collaborer à un niveau qui encourage l'innovation et l'exactitude.

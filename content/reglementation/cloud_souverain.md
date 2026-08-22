@@ -17,7 +17,7 @@ En effet, le Cloud Act américain permet aux autorités américaines d'exiger la
 Pour que le transfert soit légal au regard du RGPD, il faut respecter deux étapes :
 1. Une obligation légale
 2. Le transfert de données doit correspondre à une dérogation de l’article 49 du RGPD; L’article 49 liste un certain nombre de dérogations à l’exigence de garanties fortes aux transferts hors Europe.
-La question est donc ce savoir si le transfert de données, demandé en vertu du Cloud Act, peut correspondre à l’une de ces dérogations.
+La question est donc de savoir si le transfert de données, demandé en vertu du Cloud Act, peut correspondre à l’une de ces dérogations.
     - motifs importants d’intérêt public
     - protéger les intérêts vitaux de la personne qui n’est pas en capacité de donner son consentement
     - ...

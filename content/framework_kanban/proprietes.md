@@ -6,8 +6,8 @@ weight=20
 
 ## Commencer avec ce que vous avez maintenant
 Kanban cherche à utiliser le système actuel.
-- Respecter les rôles, métiers et responsabilités existantes.
--  Continuer et améliorer le système actuel
+- Respecter les rôles, métiers et responsabilités existants.
+- Continuer et améliorer le système actuel
   
 Kanban est un cadre de gestion du changement (et non un framework), car il ne modifie pas
 la façon dont l’équipe travaille le premier jour et laisse le processus évoluer au fil du temps.

@@ -8,7 +8,7 @@ weight = 20
 > - [Vive les silos dans votre organisation!](https://www.frenchweb.fr/vive-les-silos-dans-votre-organisation/379694)
 > - [Brisez les silos verticaux, sans tout détruire](https://forum.scrumlife.tv/t/brisez-les-silos-verticaux-sans-tout-detruire/3201/1)
 
-Les silos organisationnels sont des structures de travail qui séparent les employés  en groupes individuels. Ces groupes peuvent revêtir de nombreuses formes :
+Les silos organisationnels sont des structures de travail qui séparent les employés en groupes individuels. Ces groupes peuvent revêtir de nombreuses formes :
 départements, la géographie et la fonction commerciale au niveau supérieur, jusqu'aux équipes et projets individuels au niveau microéconomique.
 
 ![](https://qph.cf2.quoracdn.net/main-qimg-22a5205f65125dff1a8f659d2b3ae42f-lq)
@@ -17,7 +17,7 @@ On retrouve également une structure en silo dans les équipes de développement
 
 ![](https://scaledagile.com/wp-content/uploads/2021/06/DVSplusdependencies2-768x438-1.png)
 
-Et cette organisation peut peut avoir un certain nombre d'effets négatifs sur l'entreprise, notamment
+Et cette organisation peut avoir un certain nombre d'effets négatifs sur l'entreprise, notamment
 
 - Réduction de la productivité : Les silos peuvent créer des redondances et des inefficacités dans les processus, ce qui entraîne une baisse de la productivité et une augmentation des coûts.
 - Manque d'innovation : Lorsque les services ne collaborent pas, il peut être plus difficile de développer de nouvelles idées et d'innover.
@@ -26,6 +26,6 @@ Et cette organisation peut peut avoir un certain nombre d'effets négatifs sur l
 
 
 ## Équipe pluridisciplinaire 
-Les équipes Agile se caractérise par leur côté [pluridisciplinaire (cross-functional)]({{< relref "caracteristique" >}}). 
+Les équipes Agile se caractérisent par leur côté [pluridisciplinaire (cross-functional)]({{< relref "caracteristique" >}}). 
 
-Les équipes pluridisciplinaire réunissent des personnes de différentes fonctions ou spécialités pour travailler à un objectif commun. Cette approche favorise la communication, la collaboration et l'innovation au sein de l'organisation.
+Les équipes pluridisciplinaires réunissent des personnes de différentes fonctions ou spécialités pour travailler à un objectif commun. Cette approche favorise la communication, la collaboration et l'innovation au sein de l'organisation.

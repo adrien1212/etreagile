@@ -18,7 +18,7 @@ weight = 10
 > [!definition] Waterfall mal interprété
 > Waterfall est mal interprété, dans cette page nous revenons sur Waterfall en analysant [le document d'origine](https://www.praxisframework.org/files/royce1970.pdf) et en nous aidant de l'article [The Myth of the 'Waterfall' SDLC --> The Many Misconceptions of Waterfall](http://www.bawiki.com/wiki/Waterfall.html)
 
-Lorsqu'on évoque Waterfall on pense tout évidement au modèle ci-dessous avec un enchaînement de tâche successive conduisant à un effet tunnel. Mais si nous lisons attentivement le [papier d'origine](https://www.praxisframework.org/files/royce1970.pdf), nous nous rendons compte que ce modèle n'a jamais existé.
+Lorsqu'on évoque Waterfall on pense tout évidemment au modèle ci-dessous avec un enchaînement de tâches successives conduisant à un effet tunnel. Mais si nous lisons attentivement le [papier d'origine](https://www.praxisframework.org/files/royce1970.pdf), nous nous rendons compte que ce modèle n'a jamais existé.
 
 ## Activités communes à tout effort de programmation
 > There are two essential steps common to all computer program developments, regardless of size or
@@ -38,19 +38,19 @@ Jusqu'à présent, cela ressemble encore aux caractéristiques communément attr
 
 ![Waterfall itératif](waterfall2.png)
 
-Puis sur la même page, Royce croît à ce modèle mais emmet néanmoins des critiques
+Puis sur la même page, Royce croit à ce modèle mais émet néanmoins des critiques
 
 > **I believe in this concept (figure 3), but the implementation described above is risky and invites failure.** The problem is illustrated in Figure 4
 
-La boucle de feedback de la figure 3 ne permet pas d'anticiper les problème :
-- La phase de test n'arrivant qu'à la fin du cycle de vie, si des *system requirement* (latence, performance ...) ne sont pas satisfaits une refonte complète du système pourrait être necessaire
+La boucle de feedback de la figure 3 ne permet pas d'anticiper les problèmes :
+- La phase de test n'arrivant qu'à la fin du cycle de vie, si des *system requirement* (latence, performance ...) ne sont pas satisfaits une refonte complète du système pourrait être nécessaire
   > The testing phase which occurs at the end of the development cycle is the first event for which timing, storage, input/output transfers, etc., are experienced as distinguished from analyzed. These phenomena are not precisely analyzable. They are not the solutions to the standard partial differential equations of mathematical physics for instance. Yet if these phenomena fail to satisfy the various external constraints, then invariably a major redesign is required.
 
 Nous avons donc des impacts forts entre le test --> le code --> l'analyse. **Les itérations ne sont donc pas cantonnées uniquement à la phase précédente.**
 
 ![Waterfall itératif 2](waterfall3.png)
 
-A la fin de la page 2, Royce affirme donc que le processus de base qu'il a décrit jusqu'à présent [c'est-à-dire ce qui est illustré à la figure 3, et NON ce qui est illustré à la figure 2] est fondamentalement sain. Mais qu'il peut être amélioré par les étapes supplémentaires qu'il recommande.
+À la fin de la page 2, Royce affirme donc que le processus de base qu'il a décrit jusqu'à présent [c'est-à-dire ce qui est illustré à la figure 3, et NON ce qui est illustré à la figure 2] est fondamentalement sain. Mais qu'il peut être amélioré par les étapes supplémentaires qu'il recommande.
 
 > However, I believe the illustrated approach to be fundamentally sound. The remainder of this discussion presents five additional features that must be added to this basic approach to eliminate most of the development risks.
 

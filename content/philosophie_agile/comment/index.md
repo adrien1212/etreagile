@@ -35,7 +35,7 @@ va comprendre les avantages**.
 > A team with a growth mindset believes they can change, learn, and develop their skills and abilities. In a fixed mindset, the team believes their basic qualities, like their intelligence, skills, or talents, are simply fixed traits. [^1]
 
 ### Framework Agile
-Également il est important de ne pas confondre Agile et les Framework Agile. Agile représente une philosophie globale pour le développement de logiciels. Elle met l’accent sur la création d’un produit de haute qualité via des itérations.
+Également il est important de ne pas confondre Agile et les Frameworks Agile. Agile représente une philosophie globale pour le développement de logiciels. Elle met l’accent sur la création d’un produit de haute qualité via des itérations.
 Pour accomplir cet objectif, de nombreux frameworks ont été développés.
 
 ![Agile framework](agile_framework.png)

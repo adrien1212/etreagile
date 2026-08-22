@@ -13,7 +13,7 @@ weight= 33
 
 ## Auto-organisée
 En interne elle décide du fonctionnement ; qui fait quoi, quand et comment
- ![seft organized](self_organized.png)
+ ![self organized](self_organized.png)
 
 
 ### Mais depuis 2020 : Autogérée plutôt qu’auto‐organisée

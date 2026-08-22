@@ -12,7 +12,7 @@ weight = 10
 
 
 > [!definition] Définition
-> Enterprise Architecture is the glue between Business Architecture et IT Architecture
+> Enterprise Architecture is the glue between Business Architecture and IT Architecture
 
 ![EA Glue](ea_glue.png)
 
@@ -24,10 +24,10 @@ Deux conceptualisations de l'architecture d'entreprise dominent actuellement le 
 Ces deux visions sont indissociables : l’EA vise à piloter la transformation de l’organisation afin que les couches techniques et applicatives soutiennent et amplifient au mieux les besoins métier et la stratégie business, en s’appuyant sur une roadmap de transition structurée.
 
 ### En détail
-Le schéma suivant offre une vue plus détaillé des différents domaine de l'EA :
+Le schéma suivant offre une vue plus détaillée des différents domaines de l'EA :
 - Business Domain
 - Et les autres qui peuvent être rassemblés sous la même étiquette de "Technical Domain"
 
-L'objectif d'adopter une stratégie technique qui supporte la stratégie business de l'entreprise (créer de la valeur).
+L'objectif est d'adopter une stratégie technique qui supporte la stratégie business de l'entreprise (créer de la valeur).
 
 ![EA Domaines](domain_ea.png)

@@ -22,6 +22,6 @@ weight=50
 ![Roles Scrum](scrum_roles.png)
 
 ## Conséquences
-> A tout instant, il existe une version du produit "potentiellement utilisable" disponible
+> À tout instant, il existe une version du produit "potentiellement utilisable" disponible
 
 > L’équipe Scrum est responsable de la collaboration, vérification, maintenance, R&D, etc ... devant les parties prenantes

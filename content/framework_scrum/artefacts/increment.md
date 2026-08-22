@@ -5,7 +5,7 @@ weight=3
 +++
 
 > [!danger] Définition
->  La version du produit livré aux parties prenantes après chaque sprint. Finit et testé.
+>  La version du produit livrée aux parties prenantes après chaque sprint. Fini et testé.
 
 > [!affirmation] Affirmation
 >  Le travail réalisé devient un incrément uniquement s’il satisfait la Definition of Done

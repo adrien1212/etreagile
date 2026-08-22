@@ -55,7 +55,7 @@ Devraient être
 
 ### Adapter le plan
 
-**Affirmation 1**. *En Agile on ne suit pas un plan prédéfini, un ajuste
+**Affirmation 1**. *En Agile on ne suit pas un plan prédéfini, on ajuste
 le plan au fil des jours*
 
 Le Daily permet d’ajuster le plan pour atteindre l’objectif du sprint.
@@ -70,6 +70,6 @@ le travail que nous voulons finir (DONE)*
 -   Quels sont les points de blocage qui empêchent les stories d’avancer
     ?  
 
-Avec Walk in progress on regarde se qui est le plus prêt du DONE
+Avec Walk in progress on regarde ce qui est le plus près du DONE
 (colonne avant DONE) et on se demande si on peut le finir aujourd’hui.
 On va de la droite vers la gauche du board.

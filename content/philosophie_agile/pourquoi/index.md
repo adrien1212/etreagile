@@ -9,7 +9,7 @@ Tout au long de ce premier chapitre nous avons présenté les avantages de l'agi
 On veut devenir Agile car on veut :
 - pouvoir encaisser l'incertitude
 - pouvoir encaisser le changement
-- livrer un produit de haut qualité
+- livrer un produit de haute qualité
 - que l'homme soit au centre du processus (*user-centric*)
 - rendre l'équipe propriétaire du processus
 - engager le client pour produire le bon produit

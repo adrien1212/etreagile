@@ -4,7 +4,7 @@ description = "Ce qu'est le Lean : une approche de la satisfaction client par l'
 weight = 10
 +++
 
-Le Lean, une philosophie de gestion originaire du Japon, s’est révélée être l’une des méthodologies les plus influentes. Le Lean repose sur des principes fondamentaux visant à éliminer les activités inutiles, à maximiser la valeur pour le client et à créer une culture d’amélioration continue. Tout comme la philosophie Agile elle recherche la performance productivité,
+Le Lean, une philosophie de gestion originaire du Japon, s’est révélé être l’une des méthodologies les plus influentes. Le Lean repose sur des principes fondamentaux visant à éliminer les activités inutiles, à maximiser la valeur pour le client et à créer une culture d’amélioration continue. Tout comme la philosophie Agile elle recherche la performance : productivité,
 qualité, délais et coût.
 
 > [!definition] Définition

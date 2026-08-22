@@ -31,7 +31,7 @@ Puis à terme, au bout de quelques années on se rend compte que :
 
 ## Rôle de l’EA : ce que ça apporte concrètement
 > [!ressource] Ressource
-> - [En complément, dans la FAQ "Qu’apporte  l’Architecture d’Entreprise ?"](https://www.urba-ea.org/larchitecture-entreprise/)
+> - [En complément, dans la FAQ "Qu’apporte l’Architecture d’Entreprise ?"](https://www.urba-ea.org/larchitecture-entreprise/)
 
 Une pratique d’EA bien installée permet notamment de :
 
@@ -60,6 +60,6 @@ Une pratique d’EA bien installée permet notamment de :
   - des patterns et architectures de référence → livraison plus rapide et plus sûre
   - des roadmaps structurées → on ne subit pas la transformation, on la pilote
 
-## ... mais on a rien implémenté encore
+## ... mais on n'a rien implémenté encore
 Dire *l’EA aligne le business et l’IT*, c’est joli ... mais ça ne dit pas ce que les architectes produisent réellement. C’est exactement ce que vient adresser [CSVLOD]({{< relref "urbanisation/csvlod/index" >}}) :
 - c’est un modèle qui décrit les types d’artefacts d’EA (Considerations, Standards, Visions, Landscapes, Outlines, Designs) et à quoi ils servent dans la vie réelle. 

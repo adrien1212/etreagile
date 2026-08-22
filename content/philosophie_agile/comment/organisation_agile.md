@@ -18,4 +18,4 @@ En conséquence, l'ensemble de l'effort fourni par cette équipe risque de ne pa
 > On parle alors de Cycle en Vrum : [Water scrum fall ou Vrum](https://fr.wikipedia.org/wiki/Scrum_(d%C3%A9veloppement)#Water_scrum_fall_ou_Vrum)
 
 ## Alors quoi faire ?
-Une organisation s'est construire autour de process (e.g. Waterfall), il faut donc changer l'ensemble de la structure si vous souhaitez Agile : [Importance de la culture]({{< relref "importance_culture" >}}). Et pour commencer pour devez inculquer la culture Agile; et c'est à la direction de le faire. En effet si la direction ne comprend Agile alors il n'y a aucune chance que cela fonctionne.
+Une organisation s'est construite autour de process (e.g. Waterfall), il faut donc changer l'ensemble de la structure si vous souhaitez être Agile : [Importance de la culture]({{< relref "importance_culture" >}}). Et pour commencer vous devez inculquer la culture Agile; et c'est à la direction de le faire. En effet si la direction ne comprend pas Agile alors il n'y a aucune chance que cela fonctionne.

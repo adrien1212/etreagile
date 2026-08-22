@@ -22,6 +22,6 @@ Les 3 piliers de l'empirisme selon Scrum sont les suivants
 ![3 piliers](3piliers.png)
 
 ## 3 Piliers liés
-- Sans transparence, l'inspection est basé sur des informations incorrectes ou incomplete
+- Sans transparence, l'inspection est basée sur des informations incorrectes ou incomplètes
 - Sans inspection, les problèmes restent inaperçus
 - Sans adaptation, même les problèmes bien identifiés ne peuvent être résolus.

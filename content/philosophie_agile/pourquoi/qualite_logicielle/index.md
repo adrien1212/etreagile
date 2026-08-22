@@ -18,10 +18,10 @@ Définir ce que signifie un "logiciel" de qualité est une excellente question. 
 
 > The fundamental role of internal quality is that it lowers the cost of future change. 
 
-- Avec un faible qualité, le progrès initial est rapide mais avec le temps il devient difficile d'ajouter de nouvelles fonctionnalités
-  - de petit changement nécessite de comprendre la globalité du logiciel (e.i obscurité)
+- Avec une faible qualité, le progrès initial est rapide mais avec le temps il devient difficile d'ajouter de nouvelles fonctionnalités
+  - de petits changements nécessitent de comprendre la globalité du logiciel (i.e. obscurité)
   - un changement casse quelque chose autre part
-- En se concentrant sur une qualité interne élevée, la création de nouvelle fonctionnalité n'est pas ralentie 
+- En se concentrant sur une qualité interne élevée, la création de nouvelles fonctionnalités n'est pas ralentie 
 
 > **High quality software is cheaper to produce**
 

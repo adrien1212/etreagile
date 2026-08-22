@@ -18,9 +18,9 @@ On représente ci-dessous la vue de haut niveau d'une application *BookStore* av
 ![component_diagram](exemple_container_diagram.png)
 
 ## Component diagram
-Si on descent d'un niveau avec une *vue composent*, le diagramme présente l'architecture microservice élaboré par les développeurs :
+Si on descend d'un niveau avec une *vue composant*, le diagramme présente l'architecture microservice élaborée par les développeurs :
 - une API BookStore
-- exposé au travers d'une Gateway qui est le point d'entré
+- exposée au travers d'une Gateway qui est le point d'entrée
 - un serveur de configuration 
 - l'IAM qui va nous permettre de nous identifier et fournir un jeton JWT
 - un serveur d’observabilité (zipkin)
@@ -31,9 +31,9 @@ Le talk est sur le versionnage des API (v1, v2, ...) et on se demande qui doit p
 - uniquement sur la gateway car c'est notre porte d'entrée avec un routage vers le bon backend
   - `/v1` routage vers backend v1
   - `/v2` routage vers backend v2
-- également, on peut se poser la question sur les services tiers, est-ce qu'il porte la version aussi.
+- également, on peut se poser la question sur les services tiers, est-ce qu'ils portent la version aussi.
 
-Note, la base de données est partagé entre nos différentes versions.
+Note, la base de données est partagée entre nos différentes versions.
 
 ![component_diagram](exemple_component_diagram2.png)
 

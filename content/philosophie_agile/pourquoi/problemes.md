@@ -25,12 +25,12 @@ monolithiques qui exigeaient de la discipline et des résultats clairs (année 7
 ## Le pivot vers la philosophie Agile
 
 Le développement massif d’Internet a permis l’émergence de nombreuses petites entreprises
-qui créaient des applications web. Les équipes de développement de ces sociétés commençaient à remettre en question la méthodologie Waterfall et cherchaient des moyens d’être plus efficace. 
+qui créaient des applications web. Les équipes de développement de ces sociétés commençaient à remettre en question la méthodologie Waterfall et cherchaient des moyens d’être plus efficaces. 
 
-Ayant une structure organisationnelle et un projet moins complexe qu’une enterprise "Legacy System", elles pouvaient donc être à l’écoute et **répondre plus rapidement aux besoins du client.**
+Ayant une structure organisationnelle et un projet moins complexe qu’une entreprise "Legacy System", elles pouvaient donc être à l’écoute et **répondre plus rapidement aux besoins du client.**
 
 Les développeurs ont commencé à rejeter la planification de bout en bout et les spécifications
-prédéfinis. Nous sommes à la naissance de l’agilité :
+prédéfinies. Nous sommes à la naissance de l’agilité :
 - Un produit ne peut pas être entièrement spécifié au départ.
 - L’économie est trop dynamique : l’adaptation du processus s’impose.
 - Accepter les changements d’exigences, c’est donner un avantage compétitif au client.
@@ -76,18 +76,18 @@ On sait que de nombreux paramètres sont imprévisibles lors du projet. Il s’a
 contrôler cette imprévisibilité sans la nier en évitant d’être systématiquement obsédé par les
 plans initiaux obsolètes.
 
-⇒ Une équipe agile se dote de pratiques et d’outils qui lui facilite l’accueil du changement.
+⇒ Une équipe agile se dote de pratiques et d’outils qui lui facilitent l’accueil du changement.
 
 ## Quelques chiffres
 Une étude menée en 1995 nous révèle que :
 - 16% des logiciels sont finis dans les temps et le budget alloué
-- 31% sont abandonnées
+- 31% sont abandonnés
 - 53% dépassent le coût et/ou le délai
 
-C’est dans un contexte de gaspillage et de transformation du numérique quand 2001 une
-équipe d’expert se réunir afin de rédiger le Manifeste Agile.
+C’est dans un contexte de gaspillage et de transformation du numérique qu’en 2001 une
+équipe d’experts se réunit afin de rédiger le Manifeste Agile.
 Depuis, The Standish Group publie annuellement le CHAOS Report qui regroupe un ensemble
-de statistique sur les projets informatiques. Par exemple en 2015, on dénombrait 29% des projet finis en temps/budget, 19% abandonnés et 52% connaissaient des dépassements de
+de statistiques sur les projets informatiques. Par exemple en 2015, on dénombrait 29% des projets finis en temps/budget, 19% abandonnés et 52% connaissaient des dépassements de
 coût/délais.
 
 [^1]: Scaling Software Agility - p26

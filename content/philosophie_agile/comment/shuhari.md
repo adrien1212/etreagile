@@ -9,7 +9,7 @@ weight = 5
 - [Shuhari : philosophie de transmission de l’agile](https://blog.myagilepartner.fr/index.php/2017/07/04/shuhari/)
 {{% /notice %}}
 
-![Shy Ha Ri](shuhari.png)
+![Shu Ha Ri](shuhari.png)
 
 Principalement décrit dans les ouvrages sur Scrum, néanmoins le Shu Ha Ri s'applique également pour l'ensemble plus large qu'est Agile.
 
@@ -17,7 +17,7 @@ Principalement décrit dans les ouvrages sur Scrum, néanmoins le Shu Ha Ri s'ap
 
 - Ha (Se détacher et s'éloigner) : Vous êtes capable de prendre des initiatives dont vous comprenez les impacts et qui ne modifient pas l’objectif final du geste.
 
-- Ri (Laisser et Indépendance) - vous êtes devenu le maître, l'incarnation du sujet (Agile dans ce cas). Vous pouvez inventer de nouveau process.
+- Ri (Laisser et Indépendance) - vous êtes devenu le maître, l'incarnation du sujet (Agile dans ce cas). Vous pouvez inventer de nouveaux process.
 
 Le problème est que, de nos jours, la plupart des Scrum Master passent immédiatement à l'étape *Ri*, modifiant les processus sans passer par *Shu* et *Ha*. Vous devez comprendre et réussir le processus avant de pouvoir l'expérimenter et vous l'approprier. 
           

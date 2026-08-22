@@ -4,9 +4,9 @@ description="Agile se concentre sur les personnes et les processus, le craft sur
 weight=50
 +++
 
-> Les communautés Agile se concentrent d'abord sur les personnes et les processus dans les projets logiciel, les communautés Craftsmanship se focalisent sur le côté technique
+> Les communautés Agile se concentrent d'abord sur les personnes et les processus dans les projets logiciels, les communautés Craftsmanship se focalisent sur le côté technique
 
-Les deux "mouvements" vise à livrer des produits logiciels de haute qualité et de renforcer le *professionnalisme* :
+Les deux "mouvements" visent à livrer des produits logiciels de haute qualité et à renforcer le *professionnalisme* :
 - satisfaction client
 - collaboration étroite
 - rétroaction rapide

@@ -1,5 +1,5 @@
 +++
-title="Artefacs Scrum"
+title="Artefacts Scrum"
 description="Les trois artefacts Scrum — Product Backlog, Sprint Backlog et Incrément — rendent visible l'avancement du travail."
 weight=60
 +++

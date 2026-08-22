@@ -17,7 +17,7 @@ sur planifier et documenter. Elles en oublient l’essentiel : la satisfaction c
 ## 4 Valeurs
 - Les individus et leurs interactions *plus que* les processus et les outils
 - Des logiciels opérationnels *plus qu’une* documentation exhaustive
-- La collaboration avec les clients *plus que* a négociation contractuelle
+- La collaboration avec les clients *plus que* la négociation contractuelle
 - L’adaptation au changement *plus que* le suivi d’un plan
 
 > [!affirmation] Affirmation

@@ -20,5 +20,5 @@ weight = 10
 ## Mean Time To Restore (MTTR)
 > 2018 et devient Failed Deployment Recovery Time (FDRT) 2024
 
-- FDRT se concentre sur la capacité à une équipe a gérer les échecs lors des déploiements et à voir en combien de temps nous revenons dans un état stable (uniquement rollback à une v-1)
-- Le MTTR était plus global en incluant toute les causes d'incidents (bugs, problème infrastructure)
+- FDRT se concentre sur la capacité d'une équipe à gérer les échecs lors des déploiements et à voir en combien de temps nous revenons dans un état stable (uniquement rollback à une v-1)
+- Le MTTR était plus global en incluant toutes les causes d'incidents (bugs, problème infrastructure)

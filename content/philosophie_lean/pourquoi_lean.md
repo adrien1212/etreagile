@@ -12,16 +12,15 @@ On s’intéresse au Lean pour les raisons suivantes
 
 ## Réduire le gaspillage
 > [!affirmation] Affirmation
->  Les managers créés de la valeur, mais également du gaspillage
+>  Les managers créent de la valeur, mais également du gaspillage
 - Regarder les éléments qui ont permis à l’équipe de créer de la valeur
 - Regarder les éléments qui ont empêché l’équipe de créer de la valeur
 
 ### Surcoût et non-qualité
 
-Il y a un lien étroit entre l’augmentation du cout du logiciel et sa non-qualité. Corriger, main-
-tenir, recommencer des "bêtises" vont entraîner des surcoût.
+Il y a un lien étroit entre l’augmentation du coût du logiciel et sa non-qualité. Corriger, maintenir, recommencer des "bêtises" vont entraîner des surcoûts.
 
-Il est très difficile de l’éliminer complémentent, il y aura toujours des erreurs mais l’objectif
+Il est très difficile de l’éliminer complètement, il y aura toujours des erreurs mais l’objectif
 est de minimiser ce taux. Ainsi avec Lean, on va essayer de comprendre notre process de
 travail afin de l’améliorer et d’être plus efficace.
 
@@ -46,4 +45,4 @@ Pour ce faire on va :
 > Au final le Lean se décrit ainsi :
 > - Le *Pourquoi ?* : satisfaire les clients
 > - Le *Comment ?* : développer les gens à la résolution de problème pour faire face à des situations inattendues
-> - Le *Quoi ?* : mise en place d’outil à flux tiré pour visualiser les problèmes avec des managers qui passe d’une chaine de contrôle à une chaine d’aide
+> - Le *Quoi ?* : mise en place d’outils à flux tiré pour visualiser les problèmes avec des managers qui passent d’une chaine de contrôle à une chaine d’aide

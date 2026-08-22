@@ -7,7 +7,7 @@ weight=20
 > [!ressource] Ressources
 > - [L'agilité à l'échelle, c'est quoi ? (Agile at Scale) - Scrum Life](https://youtu.be/A0alM2OovFk)
 
-Malgré que l'agilité à l'échelle n'existe pas selon Robert Martin, nous allons présentés dans les sections qui suivent plusieurs pratiques et frameworks permettant d'organiser plusieurs équipes de développement autour d'un même produit.
+Malgré que l'agilité à l'échelle n'existe pas selon Robert Martin, nous allons présenter dans les sections qui suivent plusieurs pratiques et frameworks permettant d'organiser plusieurs équipes de développement autour d'un même produit.
 
 ## Quel besoin ?
 

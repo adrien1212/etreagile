@@ -14,19 +14,19 @@ L’équipe dispose de toutes les compétences nécessaires pour transformer les
 ![crossfunctional](philosophie_agile/comment/gestion_equipe_et_individus/images/cross_fonctionnal.png)
 
 ## Objectifs
-En créant des équipes pluridisciplinaire (*cross-functional* en anglais) nous cherchons à briser les [silos organisationnels]({{< relref "philosophie_agile/comment/gestion_equipe_et_individus/equipe_independante/silo" >}}) qui créent de l'attente.
+En créant des équipes pluridisciplinaires (*cross-functional* en anglais) nous cherchons à briser les [silos organisationnels]({{< relref "philosophie_agile/comment/gestion_equipe_et_individus/equipe_independante/silo" >}}) qui créent de l'attente.
 
-Par exemple, si nous organisons nos équipes en UX, Dev et QA. Alors on sépare l'analyse de la vérification du besoin. Le développement est remis en question trop tard. C'est pour cette raison que de nombreux framework Agile demande la création d'équipe autonomes et pluridisciplinaires (e.g. [caractéristiques d'une équipe Scrum]({{< relref "framework_scrum/caracteristique" >}})).
+Par exemple, si nous organisons nos équipes en UX, Dev et QA. Alors on sépare l'analyse de la vérification du besoin. Le développement est remis en question trop tard. C'est pour cette raison que de nombreux frameworks Agile demandent la création d'équipes autonomes et pluridisciplinaires (e.g. [caractéristiques d'une équipe Scrum]({{< relref "framework_scrum/caracteristique" >}})).
 
 ## Comment créer une équipe pluridisciplinaire ?
 Nous devons jouer à la fois sur l'aspect technique et l'aspect managérial
 
 ### Aspect technique
 Le concept de pluridisciplinarité repose sur le modèle d’équipe en "T-shaped", où chaque membre dispose d’une expertise approfondie dans un domaine spécifique, tout en possédant également des compétences transversales dans d’autres disciplines.
-Pour favoriser les équipes à devenir pluridisciplinaire, nous pouvons mettre en place plusieurs "ateliers" :
-- Pair Programming, où les développeurs partagerons leurs connaissances techniques et métiers
+Pour favoriser les équipes à devenir pluridisciplinaires, nous pouvons mettre en place plusieurs "ateliers" :
+- Pair Programming, où les développeurs partageront leurs connaissances techniques et métiers
 - Code Review
-- DDD : qui permet de faire collaborer les experts métier et des développeurs via des ateliers comment l'event storming (voir également [User Story Mapping]({{< relref "user_stories/user_stories_mapping/index" >}}))
+- DDD : qui permet de faire collaborer les experts métier et des développeurs via des ateliers comme l'event storming (voir également [User Story Mapping]({{< relref "user_stories/user_stories_mapping/index" >}}))
 
 > A T-shaped team member is someone who has depth of knowledge just like the I-shaped person, but they also have a breadth of knowledge across many functional areas. They can lend a hand on lots of things.
 
@@ -36,7 +36,7 @@ with software delivery performance and contribute to a strong
 team culture: cross-functional collaboration, a climate for
 learning, and tools. (Accelerate p124)
 
-Pour favoriser la création d'équipe pluridisciplinaire les auteurs proposent :
+Pour favoriser la création d'équipes pluridisciplinaires les auteurs proposent :
 - **Building trust with your counterparts on other teams** : créer de la confiance entre les équipes est la chose la plus importante, on rejoint la notion de [psychological safety]({{< relref "philosophie_agile/comment/importance_culture/psychological_safety/index" >}}) et de [transparence]({{< relref "framework_scrum/pilliers/transparence" >}})
 
 - **Encouraging practitioners to move between departments** : apporter de la connaissance, un oeil nouveau à la nouvelle équipe et acquérir de la connaissance via cette nouvelle équipe

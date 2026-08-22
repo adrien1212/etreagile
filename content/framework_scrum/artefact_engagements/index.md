@@ -1,10 +1,10 @@
 +++
-title="Scrum Artefacs Engagement"
+title="Scrum Artefacts Engagement"
 description="Chaque artefact Scrum porte un engagement : Product Goal, Sprint Goal et Definition of Done."
 weight=70
 +++
 
-Chaque artefact contient un engagement à fournir qui améliorent la transparence et la focalisation par rapport auxquelles les progrès peuvent être mesurés.
+Chaque artefact contient un engagement à fournir qui améliore la transparence et la focalisation par rapport auxquelles les progrès peuvent être mesurés.
 
 ![scrum artefact engagement](scrum_artefacts_engagement.png)
 

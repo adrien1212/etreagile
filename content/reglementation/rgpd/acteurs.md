@@ -63,9 +63,9 @@ Un acteur interne ou externe désigné pour veiller à la conformité au RGPD.
   - Organisation publique.
 
 
-##  Des responsabilités partagées et précisées
+## Des responsabilités partagées et précisées
 > [!ressource] Ressources
 > - [ Des responsabilités partagées et précisées ](https://www.cnil.fr/fr/comprendre-le-rgpd/reglement-general-sur-la-protection-des-donnees-ce-qui-change-pour-les-professionnels)
 Le règlement européen sur la protection des données vise à responsabiliser les acteurs des traitements de données en uniformisant les obligations pesant sur les responsables de traitements et les sous-traitants.
-- Le représentant légal : c’est le point de contact de l’autorité. Il a mandat pour « être consulté en complément ou à la place du responsables de traitement sur toutes les questions relatives aux traitements »
-- Le sous-traitant :  est tenu de respecter des obligations spécifiques en matière de sécurité, de confidentialité et en matière d’accountability. Il a notamment une obligation de conseil auprès du responsables de traitement pour la conformité à certaines obligations du règlement (PIA, failles, sécurité, destruction des données, contribution aux audits). xIl est tenu de maintenir un registre et de désigner un DPO dans les mêmes conditions qu’un responsable de traitement.
+- Le représentant légal : c’est le point de contact de l’autorité. Il a mandat pour « être consulté en complément ou à la place du responsable de traitement sur toutes les questions relatives aux traitements »
+- Le sous-traitant : est tenu de respecter des obligations spécifiques en matière de sécurité, de confidentialité et en matière d’accountability. Il a notamment une obligation de conseil auprès du responsable de traitement pour la conformité à certaines obligations du règlement (PIA, failles, sécurité, destruction des données, contribution aux audits). Il est tenu de maintenir un registre et de désigner un DPO dans les mêmes conditions qu’un responsable de traitement.

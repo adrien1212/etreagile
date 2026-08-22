@@ -9,7 +9,7 @@ weight = 10
 > - [Obligations en matière de protection des données personnelles (RGPD)](https://entreprendre.service-public.gouv.fr/vosdroits/F24270) 
 
 Pour être conforme au RGPD, le traitement de données doit obéir aux principes suivants :
-- Licité : soit être légale (cf [Les 6 bases légales]({{< relref "6_base_legales" >}}))
+- Licéité : soit être légale (cf [Les 6 bases légales]({{< relref "6_base_legales" >}}))
 - Transparent : informer la personne sur les données collectées
 - Finalité : l'objectif du traitement
 - Proportionnel et Pertinent 
@@ -17,7 +17,7 @@ Pour être conforme au RGPD, le traitement de données doit obéir aux principes
 - Sécurisé
 
 > [!affirmation] Affirmation
-> A noter, que le traitement de données sensibles est interdit sauf exceptions.
+> À noter, que le traitement de données sensibles est interdit sauf exceptions.
 
 ### Licéité, Loyauté et Transparence
 

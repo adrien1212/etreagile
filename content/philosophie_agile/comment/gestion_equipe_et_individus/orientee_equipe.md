@@ -21,13 +21,13 @@ Si les individus peuvent accomplir une tâche 10 fois plus vite que leurs camara
 
 Si la meilleure équipe pouvait accomplir une tâche en une semaine, combien de temps faudrait-il à la pire équipe pour réaliser la même tâche ?
 
-> It actually it didn’t take the slow team ten weeks to do what the best team could do in one week. Rather, it took them **two thousand weeks**!
+> It actually didn’t take the slow team ten weeks to do what the best team could do in one week. Rather, it took them **two thousand weeks**!
 
-Recrutez seulement dans les "10% top workers" peut sembler une bonne approche, vous n'avez peut être pas la possibilité de le faire. Ainsi, en vous concentrant sur les équipes, vous pouvez augmenter la productivité de manière spectaculaire, même si vous vous contentez de transformer vos pires équipes en équipes simplement médiocres. Certes, viser la médiocrité ne vous mènera qu’à la médiocrité. Mais que se passerait-il si vous parveniez à rendre toutes vos équipes excellentes ?
+Recruter seulement dans les "10% top workers" peut sembler une bonne approche, vous n'avez peut-être pas la possibilité de le faire. Ainsi, en vous concentrant sur les équipes, vous pouvez augmenter la productivité de manière spectaculaire, même si vous vous contentez de transformer vos pires équipes en équipes simplement médiocres. Certes, viser la médiocrité ne vous mènera qu’à la médiocrité. Mais que se passerait-il si vous parveniez à rendre toutes vos équipes excellentes ?
 
 ## Team-First Mindset
 > [!ressource] Ressource
-> Team Topologie Chapitre 3 - Team-First Thinking 
+> Team Topologies Chapitre 3 - Team-First Thinking 
 
 >  Experts in organizational behavior have known for decades that modern complex systems require effective team performance: in particular, Driskell and Salas found **that teams working as a cohesive unit perform far better than collections of individuals** for knowledge-rich, problem-solving tasks that require high amounts of information [^1]
 
@@ -39,7 +39,7 @@ Pour que les équipes fonctionnent, leurs membres doivent faire passer les besoi
 - Encadrer les nouveaux membres ou les membres moins expérimentés de l'équipe.
 - Éviter les arguments « gagnants » et, au lieu de cela, accepter d'explorer les options. 
 
-### Que faire des "invidualistes" ?
+### Que faire des "individualistes" ?
 
 > However, even with coaching, some people are unsuitable to work on teams or are unwilling to put team needs above their own. Such people can destroy teamwork and, in extreme cases, destroy teams. These people are “team toxic” and need to be removed before damage is done. (p37 et 38)
 

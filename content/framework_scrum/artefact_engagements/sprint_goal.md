@@ -21,7 +21,7 @@ deviennent plus importants que le résultat que vous souhaitez atteindre. L’ob
 risque de devenir une réflexion après coup résultante du travail qui a été sélectionné.
 
 ![Sprint Goal](sprint_goal.png?width=40pc)
-Commencer par l’objectif du sprint présent de nombreux avantages :
+Commencer par l’objectif du sprint présente de nombreux avantages :
 - Concentration. Un objectif de sprint clair permet de décider ce qu’il est important
 d’aborder et ce qui ne l’est pas au cours du sprint.
 - Travail d’équipe. La clarté du résultat à atteindre favorise le travail d’équipe. Tout le

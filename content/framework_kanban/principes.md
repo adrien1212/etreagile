@@ -16,7 +16,7 @@ Cela montre le principe de la limitation du travail en cours (WIP). En termes si
 
 De plus, limiter le travail en cours est également important pour d'autres raisons, plus subtiles. En établissant une limite de WIP, vous introduisez une légère tension dans votre flux de travail. C'est une bonne chose™, car cela permettra de révéler des problèmes dans votre système.
 
-La limitation du WIP commencera à faire émerger des opportunités d'amélioration. Lorsque le flux de travail ralentira, commencera à s'accumuler ou s'arrêtera complètement cela indiquera qu'il faudra améliorer le système. Si le flux ne retrouve pas un écoulement normal cela signifiera que notre solution n'est pas la bonne et il faudra en trouve une autre (empirisme)
+La limitation du WIP commencera à faire émerger des opportunités d'amélioration. Lorsque le flux de travail ralentira, commencera à s'accumuler ou s'arrêtera complètement cela indiquera qu'il faudra améliorer le système. Si le flux ne retrouve pas un écoulement normal cela signifiera que notre solution n'est pas la bonne et il faudra en trouver une autre (empirisme)
 
 ## Manager le flux
 Grâce à la visualisation, les problèmes nous parviennent rapidement.

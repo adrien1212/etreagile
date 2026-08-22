@@ -24,7 +24,7 @@ Cette section vise à se poser des questions sur la transformation de Agile et d
 => with ia just much shorter sprints. 
 
 
-Retour au source, XP par exemple et ces pratiques deviendront de plus en plus necessaire/répendus
+Retour aux sources, XP par exemple et ses pratiques deviendront de plus en plus nécessaires/répandus
 
 https://www.scrum.org/resources/blog/do-we-need-rewrite-scrum-age-ai
 https://yuvalyeret.com/blog/ai-didnt-kill-agile-it-moved-the-bottleneck/

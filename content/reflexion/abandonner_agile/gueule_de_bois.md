@@ -8,7 +8,7 @@ weight = 5
 > - Clean Agile - p151
 > - [Le burn de l’agilité](https://forum.scrumlife.tv/t/le-burn-de-lagilite/2177)
 
-Ci dessous vous retrouverez le paragraphe écrit par Robert Martin, je vous suggère également d'aller l'autre ressource [Le burn de l’agilité](https://forum.scrumlife.tv/t/le-burn-de-lagilite/2177)
+Ci-dessous vous retrouverez le paragraphe écrit par Robert Martin, je vous suggère également d'aller voir l'autre ressource [Le burn de l’agilité](https://forum.scrumlife.tv/t/le-burn-de-lagilite/2177)
 
 
 Transitioning from one culture to another was not easy. Companies needed

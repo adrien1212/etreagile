@@ -11,12 +11,12 @@ weight = 20
 > - [Accelerate par Scrum Life](https://youtu.be/c1LopX1rmYs)
 > - [Section sur DORA Report]({{< relref "dora/index" >}})
 
-Accelerate est un livre qui a fortement impacté ma pensé sur le monde du Génie Logiciel et de la gestion Agile des équipes. Il apporte des éléments de réflexions reposant sur des études scientifiques. Dans ce livre vous apprendrez :
+Accelerate est un livre qui a fortement impacté ma pensée sur le monde du Génie Logiciel et de la gestion Agile des équipes. Il apporte des éléments de réflexion reposant sur des études scientifiques. Dans ce livre vous apprendrez :
 - Que signifie la *performance* et comment la mesurer ?
 - L'importance de la culture
 - Les pratiques techniques qui peuvent augmenter la performance
 
-Les résumés suivant identifie les points-clés du livre et les rattache à des informations vues précédemment
+Les résumés suivants identifient les points-clés du livre et les rattache à des informations vues précédemment
 
 ## Mesurer la performance
 Nous l'avons souligné dans des sections précédentes, les principales erreurs lorsqu'on parle de performance sont :
@@ -24,21 +24,21 @@ Nous l'avons souligné dans des sections précédentes, les principales erreurs 
 - se concentrer sur [l'individu au lieu de l'équipe]({{< relref "equipe_individu" >}})
   
 ### 4 mesures
-Les auteurs proposent quatre métrique ([qui ont évolué depuis]({{< relref "evolution_2018_2024" >}})) pour mesurer *Software Delivery Performance* (SDP) :
+Les auteurs proposent quatre métriques ([qui ont évolué depuis]({{< relref "evolution_2018_2024" >}})) pour mesurer *Software Delivery Performance* (SDP) :
 - Delivery Lead Time
 - Deployment Frequency
 - Mean Time to Restore
 - Change Fail Percentage
 
-Les deux premières mesures vont nous donner le **débit** du système et les deux suivantes la **stabilité** du système. Et l'augmentation du débit et de la stabilité conduit à une meilleur *SDP*.
+Les deux premières mesures vont nous donner le **débit** du système et les deux suivantes la **stabilité** du système. Et l'augmentation du débit et de la stabilité conduit à une meilleure *SDP*.
 
 ### Les impacts de la SDP
-On peut se demander si impacter SDP à de l'importance, et bien oui !
+On peut se demander si impacter SDP a de l'importance, et bien oui !
 -  x2 des objectifs atteints
 -  x2 de la satisfaction des clients
 -  x2 de la qualité produite
   
-=> Impacte la performance de l'organisation en plus d'enjeux non fonctionnelle
+=> Impacte la performance de l'organisation en plus d'enjeux non fonctionnels
 
 ![alt text](fig24.png)
 
@@ -46,11 +46,11 @@ On peut se demander si impacter SDP à de l'importance, et bien oui !
 > [!Ressource] Ressource
 > - [Westrum’s Organizational Model in Technology Organizations](https://itrevolution.com/articles/westrums-organizational-model-in-tech-orgs/)
 
-Avant de déployer une approche pour augmenter les performances, nous devons comprendre les [impacts de la culture d'entreprise]({{< relref "importance_culture" >}}) et comment celle-ci doit évoluer. Les travaux de Westrum nous apprennent qu'il existe plusieurs type d'organisation et nous devons viser la *Generative*
+Avant de déployer une approche pour augmenter les performances, nous devons comprendre les [impacts de la culture d'entreprise]({{< relref "importance_culture" >}}) et comment celle-ci doit évoluer. Les travaux de Westrum nous apprennent qu'il existe plusieurs types d'organisations et nous devons viser la *Generative*
 
 > Generative (performance-oriented) organizations focus on the mission. How do we accomplish our goal? Everything is subordinated to good performance, to doing what we are supposed to do.
 
-Et nous décrit les caractéristique d'une telle organisation (colonne 3)
+Et nous décrit les caractéristiques d'une telle organisation (colonne 3)
 
 ![alt text](fig31.png)
 
@@ -67,17 +67,17 @@ along with a set of other technical practices known collectively as continuous d
 
 ![alt text](fig33.png)
 
-J'aimerai compléter en ajoutant que le changement de culture peut être amené par des [Innovators and Early Adopters]({{< relref "agile/developpeur_executant/innovators_early_adapoter" >}}) si on leur laisse la liberté de proposer des idées.
+J'aimerais compléter en ajoutant que le changement de culture peut être amené par des [Innovators and Early Adopters]({{< relref "agile/developpeur_executant/innovators_early_adapoter" >}}) si on leur laisse la liberté de proposer des idées.
 
 ## Pratiques techniques
-Tout comme le livre *Scrum: The Art of Doing Twice the Work in Half the Time* ou encore *Clean Agile*, les auteurs du livre nous re-informe de l'importance de [l'excellence technique]({{< relref "viser_excellence" >}}) et que celle-ci fait partie de la philosophie Agile
+Tout comme le livre *Scrum: The Art of Doing Twice the Work in Half the Time* ou encore *Clean Agile*, les auteurs du livre nous re-informent de l'importance de [l'excellence technique]({{< relref "viser_excellence" >}}) et que celle-ci fait partie de la philosophie Agile
 
 > Many Agile adoptions have treated technical practices as secondary compared to the management and team practices that some Agile frameworks emphasize. (Accelerate p41)
 
 La pratique mise en avant dans l'ouvrage est la *Continuous Integration* et les auteurs affirment que celle-ci a un fort impact sur les *outcomes* suivants :
 - Meilleure SDP
-- Taux de d'échec du au changement bas (fail rates)
-- Une culture orienté *Generative*
+- Taux d'échec dû au changement bas (fail rates)
+- Une culture orientée *Generative*
 - Renforce l'identité
 
 ![alt text](fig42.png)
@@ -95,11 +95,11 @@ La pratique mise en avant dans l'ouvrage est la *Continuous Integration* et les 
 ![alt text](fig41.png)
 
 
-En plus des pratiques classique (versionnage, test automatique, monitoring) les éléments d'architectures se révèlent avoir un fort impact sur la CD :
+En plus des pratiques classiques (versionnage, test automatique, monitoring) les éléments d'architectures se révèlent avoir un fort impact sur la CD :
 - couplage faible (lié aux notions de modularité)
 
 ## Architecture
-Les décisions architecturale auront un impact sur les performances de lu logiciel et de l'organisation. En effet de mauvais choix pourront devenir un frein au débit et à la stabilité du logiciel. 
+Les décisions architecturales auront un impact sur les performances du logiciel et de l'organisation. En effet de mauvais choix pourront devenir un frein au débit et à la stabilité du logiciel. 
 
 Un principe clé est d'avoir une architecture dite *Faiblement couplée* (Loosely coupled) car chaque module est facilement testable et déployable; Ceci conduit à une augmentation du débit et de la stabilité du système.
 
@@ -108,9 +108,9 @@ Un principe clé est d'avoir une architecture dite *Faiblement couplée* (Loosel
 
 Ainsi pour avoir une architecture modulaire (qui sera *Faiblement couplée*) notre organisation doit se restructurer :
 - nécessite des équipes [pluridisciplinaires]({{< relref "framework_scrum/caracteristique" >}})
-- définir les *[Bounded Context](https://martinfowler.com/bliki/BoundedContext.html)* et API de façon à découper uyn large domaine d'activité en plus petits domaines indépendants
+- définir les *[Bounded Context](https://martinfowler.com/bliki/BoundedContext.html)* et API de façon à découper un large domaine d'activité en plus petits domaines indépendants
   - => Une équipe ou un groupe de développeur par module (travail isolé et qui n'impacte pas les autres équipes)
-- permettre de déployer indépendant chaque module
+- permettre de déployer indépendamment chaque module
 
 ## Pratique managériales pour le logiciel
 En plus des pratiques techniques, le management aura un impact sur la culture de l'organisation et par conséquence sur la SDP.
@@ -118,7 +118,7 @@ En plus des pratiques techniques, le management aura un impact sur la culture de
 ![alt text](fig33.png)
 
 ### Lean Software Development
-Mary et Tom Poppendieck propose une approche novatrice avec le *Lean Software Development*. S'inspirant des principes du Lean Manufacturing, initialement popularisés par Toyota, ils ont su adapter ces concepts à l'univers complexe du développement de logiciels.
+Mary et Tom Poppendieck proposent une approche novatrice avec le *Lean Software Development*. S'inspirant des principes du Lean Manufacturing, initialement popularisés par Toyota, ils ont su adapter ces concepts à l'univers complexe du développement de logiciels.
 
 ![alt text](fig71.png)
 
@@ -137,12 +137,12 @@ En effet WIP + Management visuel rend les obstacles visibles; ce qui encourage �
 ![alt text](fig81.png)
 
 L'autonomie de l'équipe est très importante pour la performance :
-- elle soit avoir la capacité de l'équipe à essayer de nouvelles idées sans avoir l'autorisation des personnes en dehors de l'équipe
+- elle doit avoir la capacité de l'équipe à essayer de nouvelles idées sans avoir l'autorisation des personnes en dehors de l'équipe
 
 En combinant Team Experiment + Small Batches + Work Visible :
-- l'équipe aura la capacité de prendre des décisions rationnelles sur le design le développement et le déploiement
+- l'équipe aura la capacité de prendre des décisions rationnelles sur le design, le développement et le déploiement
 - que le changement sera basé sur le feedback
-- et finalement que les décisions soient communiqué à l'ensemble de l'organisation
+- et finalement que les décisions soient communiquées à l'ensemble de l'organisation
 
 ## Satisfaction des employés, identité et engagement
 Je m'attendais à ce que ce chapitre soit le plus ennuyeux, avec un fort préjugé sur le discours souvent flou autour de la notion d'identité. Pourtant, le chapitre 10, consacré à ce sujet, s'est révélé être particulièrement instructif.
@@ -151,32 +151,32 @@ Je m'attendais à ce que ce chapitre soit le plus ennuyeux, avec un fort préjug
 
 Cette première affirmation me fait penser au sujet de [Comment manager la genZ]({{< relref "manager_genz" >}}) et notamment un sujet très sensible qu'est la fidélisation de la GenZ en entreprise. Je suis intimement convaincu que recruter une personne est beaucoup plus simple que la fidéliser afin qu'elle reste dans l'entreprise.
 
-Les études rapportés dans le livre indique que :
+Les études rapportées dans le livre indiquent que :
 - l'engagement et la satisfaction de l'employé
 - est révélateur de la loyauté et de l'identité; ce qui peut conduire soit au burnout soit à une productivité forte 
 
 ### Les choses importantes
 - Comment l'entreprise collecte la satisfaction et l'utilise
 - La capacité de l'équipe à visualiser le flux de production 
-- Avoir les bons outils et les bonnes ressource pour accomplir le travail
+- Avoir les bons outils et les bonnes ressources pour accomplir le travail
 - Le fait que chaque employé s'identifie aux valeurs et objectifs de l'entreprise 
 
 ### Conséquences
 > When leaders invest in their people and enable them to do their best work, employees identify more strongly with the organization and are willing to go the extra mile to help it be successful
 
-Ainsi en combinant les pratiques managériale et les pratiques technique nous impacterons à la fois la performance mais également la culture organisationnelle
+Ainsi en combinant les pratiques managériales et les pratiques techniques nous impacterons à la fois la performance mais également la culture organisationnelle
 
 ![alt text](fig101.png)
 
 ## Leader et Manager
-Le livre identifie cinq caractéristiques que les bons leader doivent avoir :
+Le livre identifie cinq caractéristiques que les bons leaders doivent avoir :
 - **Vision** : savoir où l'organisation souhaite aller
 - **Communication** : communiquer de façon à inspirer et motiver
-- **Stimulant** : être capable d'accompagner les personnes à penser différemment`
+- **Stimulant** : être capable d'accompagner les personnes à penser différemment
 - **Supporteur** : capable de "prendre soin" de ses équipes
 - **Reconnaissant** : complimenter le travail de qualité
 
-Et se leadership va impacter les équipes techniques et l'adaptation du Lean
+Et ce leadership va impacter les équipes techniques et l'adaptation du Lean
 
 > In summary, we found that leadership helps build great teams, great technology and great organization
 
@@ -191,15 +191,15 @@ Et se leadership va impacter les équipes techniques et l'adaptation du Lean
 ### Tips pour améliorer la culture
 - Construire de la confiance
   - entre les équipes et dans les équipes
-  - *safe to fail* si l'échec est puni, alors les personnes nous voudrons plus entreprendre
-  - Communication ouverte, devenir prévisible même dans les situation stressante
-  - > Within an organization building and running software systems, it is therefore important to consciously limit the size of team groupings to Dunbar’s number to help achieve predictable behavior and interactions from those teams [...] Furthermore, behavioral studies suggest that humans work best with others when we can predict their behavior. (Team Topologie)<br>
+  - *safe to fail* si l'échec est puni, alors les personnes ne voudront plus entreprendre
+  - Communication ouverte, devenir prévisible même dans les situations stressantes
+  - > Within an organization building and running software systems, it is therefore important to consciously limit the size of team groupings to Dunbar’s number to help achieve predictable behavior and interactions from those teams [...] Furthermore, behavioral studies suggest that humans work best with others when we can predict their behavior. (Team Topologies)<br>
 <br>
 
 - Encourager à changer de département
-  - acquérir de nouvelle compétences et pouvoir transmettre celle accumulées => bénéfique pour les deux équipes <br>
+  - acquérir de nouvelles compétences et pouvoir transmettre celles accumulées => bénéfique pour les deux équipes <br>
 <br>
 
 - Espace pour explorer des idées
-  - Les grosses entreprises dédie 15 à 20% de leur temps pour du *free-thinking* et les side-project
+  - Les grosses entreprises dédient 15 à 20% de leur temps pour du *free-thinking* et les side-project
   - Encourager les gens à partager leur innovation

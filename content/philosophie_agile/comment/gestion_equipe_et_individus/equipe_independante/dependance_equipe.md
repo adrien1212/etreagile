@@ -15,5 +15,5 @@ Pour avoir des équipes autonomes il est essentiel de détecter et de traquer le
 ![dependance_equipe](dependance_equipe.png)
 
 On notera également qu'il faut
-- soit supprimer la dépendance en cassant les [silos]({{< relref "silo" >}}) et en créant des équipes [pluridisciplinaire (cross-functional)]({{< relref "caracteristique" >}})
+- soit supprimer la dépendance en cassant les [silos]({{< relref "silo" >}}) et en créant des équipes [pluridisciplinaires (cross-functional)]({{< relref "caracteristique" >}})
 - soit accepter cette dépendance car nous y voyons du bénéfice

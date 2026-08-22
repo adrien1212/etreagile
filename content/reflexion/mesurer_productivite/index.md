@@ -29,7 +29,7 @@ Dans ce cas, le second développeur est plus productif en termes de valeur déli
 Il conclut que, bien que séduisante, la mesure de la productivité logicielle est problématique et que les métriques traditionnelles peuvent conduire à des comportements contre-productifs. Ainsi, il est essentiel de **se concentrer sur la valeur commerciale** réelle délivrée plutôt que sur des indicateurs quantitatifs superficiels.
 
 ### Stabilité et Débit
-Nicole Fosgren, Jez Humble et Gene Kim auteurs du [State of DevOps reports](https://dora.dev/) et du livre *Accelerate: The Science of Lean Software & DevOps* proposent de **mesurer** non pas la productivité mais **la stabilité et le débit du système**.
+Nicole Forsgren, Jez Humble et Gene Kim auteurs du [State of DevOps reports](https://dora.dev/) et du livre *Accelerate: The Science of Lean Software & DevOps* proposent de **mesurer** non pas la productivité mais **la stabilité et le débit du système**.
 
 > Interestingly, they don’t attempt to measure productivity; rather, they
 evaluate the effectiveness of software development teams based on two key
@@ -45,7 +45,7 @@ software with measurable quality.
 
 La stabilité est suivie par les éléments suivants :
 
-- **Taux d'échec des changements** :Taux auquel un changement introduit un défaut (bug)
+- **Taux d'échec des changements** : Taux auquel un changement introduit un défaut (bug)
 - **Temps de correction** : temps nécessaire pour corriger une défaillance.
 
 #### Débit
@@ -67,4 +67,4 @@ Au lieu de cela, il est plus pertinent de se concentrer sur des indicateurs axé
 - Est-ce que ceci augmente la qualité du logiciel ? (stabilité)
 - Est-ce que ceci augmente l'efficience de la création du logiciel ? (débit)
 
-En mettant en oeuvre des [itérations courtes]({{< relref "cycles_de_vie" >}}), un [feedback rapide]({{< relref "review" >}}), une [culture d'amélioration continue]({{< relref "philosophie_agile/philosophie/philosophie" >}}), en valorisant [l'expertise technique]({{< relref "viser_excellence" >}}) sans oublier la [dimension humaine]({{< relref "dimension_humaine" >}}) l'équipe augmentera la valeur de son produit sans négligé sa stabilité et son débit.
+En mettant en oeuvre des [itérations courtes]({{< relref "cycles_de_vie" >}}), un [feedback rapide]({{< relref "review" >}}), une [culture d'amélioration continue]({{< relref "philosophie_agile/philosophie/philosophie" >}}), en valorisant [l'expertise technique]({{< relref "viser_excellence" >}}) sans oublier la [dimension humaine]({{< relref "dimension_humaine" >}}) l'équipe augmentera la valeur de son produit sans négliger sa stabilité et son débit.

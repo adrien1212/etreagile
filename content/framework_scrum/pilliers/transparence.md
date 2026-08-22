@@ -8,7 +8,7 @@ Tous les membres de l’équipe doivent comprendre les objectifs du projet et s�
 être mises à la disposition de tous les membres qui participeront au projet. La direction et les
 équipes doivent communiquer clairement entre elles pour éviter toute confusion (voir [Importance de la culture]({{< relref "philosophie_agile/comment/importance_culture/index" >}}))
 
-Ci-dessous quelques référence à *Scrum: The Art of Doing Twice the Work in Half the Time*
+Ci-dessous quelques références à *Scrum: The Art of Doing Twice the Work in Half the Time*
 
 > One element of Scrum that’s often **a prelude to achieving autonomy, mastery, and purpose is transparency**. The idea is that there should be no secret cabal, no hidden agendas, nothing behind the curtain. (p153)
 
@@ -22,7 +22,7 @@ Et conclura en fin de chapitre
 
 > **Secrecy Is Poison**. Nothing should be secret. Everyone should know everything, and that includes salaries and financials. Obfuscation only serves people who serve themselves. (p169)
 
-La paragraphe sur la [Transparence du Scrum Extension](https://scrumexpansion.org/scrum-guide-expansion-pack/#transparency) nous apporte les éléments suivants
+Le paragraphe sur la [Transparence du Scrum Extension](https://scrumexpansion.org/scrum-guide-expansion-pack/#transparency) nous apporte les éléments suivants
 
 > Important decisions are based on the artifacts, experiments, releases, or result feedback. Low Transparency can impair Inspection, leading to decisions that diminish value and increase risk. Transparency enables Inspection.
 
@@ -35,14 +35,14 @@ La transparence est le fondement des deux piliers Inspecter et Adapter. Sans une
 
 ### Via les artefacts
 
-> Each commitments reinforce the pillars of Transparency, Inspection, and Adaptation, enabling empirical process control
+> Each commitment reinforces the pillars of Transparency, Inspection, and Adaptation, enabling empirical process control
 
 - Les [commitments d'artefact]({{< relref "framework_scrum/artefact_engagements/index" >}}) permettent de gagner en transparence
 - [L'objectif du sprint]({{< relref "/framework_scrum/artefact_engagements/sprint_goal" >}}) est clairement compris et fait l'objet d'une référence quotidienne.
 - Les éléments de travail (éléments du carnet de produit/tâches) ont une claire [Definition of Done]({{< relref "/framework_scrum/artefact_engagements/definition_of_done" >}})
 
 > The Product Backlog provides Transparency (work clarity) and is the single source of work for the Scrum Team in order to achieve the Product Goal.
-> The Spring Backlog provides Transparency (work clarity) throughout the Sprint.
+> The Sprint Backlog provides Transparency (work clarity) throughout the Sprint.
 
 - Le Product Owner s'assure que le backlog reste affiné et visible par tous.
 

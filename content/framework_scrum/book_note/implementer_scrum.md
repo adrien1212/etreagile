@@ -27,7 +27,7 @@ L'**équipe** est composée des personnes qui réaliseront le travail. Elle doit
 ## 3. Choisir un Scrum Master  
 Le **Scrum Master** est chargé de guider l’équipe dans l’utilisation du cadre Scrum et d’éliminer les obstacles qui ralentissent leur progression.
 
-> *Voir Chapitre Quatre : Gaspillage *
+> *Voir Chapitre Quatre : Gaspillage*
 
 ---
 
@@ -77,7 +77,7 @@ Une réunion courte, ne dépassant pas **15 minutes**, pour répondre aux trois 
 
 1. Qu’avez-vous fait hier pour aider l’équipe à atteindre l’objectif du Sprint ?
 2. Que ferez-vous aujourd’hui pour aider l’équipe à atteindre cet objectif ?
-3. Y a-t-il des obstacles qui bloquent vous ou l’équipe ?
+3. Y a-t-il des obstacles qui vous bloquent ou bloquent l’équipe ?
 
 L’objectif est de garantir que tout le monde est aligné et autonome.
 

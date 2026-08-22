@@ -5,7 +5,7 @@ weight = 130
 comments = true
 +++
 
-Dans ce chapitre nous revenons sur les Users Stories
+Dans ce chapitre nous revenons sur les User Stories
 - Comment les décrire avec [INVEST]({{< relref "stories_invest" >}})
 - Et le moyen pour y arriver via l'atelier [User Story Mapping]({{< relref "user_stories/user_stories_mapping/index" >}})
 

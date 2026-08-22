@@ -17,7 +17,7 @@ Le Backlog Refinement est une pratique continue qui assure que les US les plus p
 Enfin, pendant le sprint, nous ajustons la priorité des US en fonction des imprévus, des blocages ou des changements de contexte. Les éventuels écarts entre les estimations initiales et le temps réellement passé sont analysés après chaque sprint afin d'améliorer les futures estimations. Cette rétroaction continue, combinée aux Retrospectives, contribue à la performance de l'équipe et à une amélioration constante du processus d’estimation.
 
 ## 5. Au besoin durant un Backlog Refinement
-Le Backlog Refinement se faisant un besoin permet d'écrire et d'affiner nos US pour les itérations à venir
+Le Backlog Refinement se faisant au besoin permet d'écrire et d'affiner nos US pour les itérations à venir
 
 ## Ainsi ...
 ... Ce processus itératif permet d'avoir des US de plus en plus détaillées et précises au fur et à mesure qu'on se rapproche de leur développement effectif. Cela favorise une meilleure compréhension et estimation du travail à réaliser

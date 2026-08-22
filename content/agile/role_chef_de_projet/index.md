@@ -13,7 +13,7 @@ weight = 70
 ![PM vs SM](pm_vs_sm.png)
 
 ## Responsabilités
-- PM : s'assurer que le projet de déroule dans la périmètre, les coûts, délais et la qualité prévus
+- PM : s'assurer que le projet se déroule dans le périmètre, les coûts, délais et la qualité prévus
 - SM : est responsable de la bonne mise en oeuvre de la philosophie Agile et Scrum
 
 ![responsabilités](responsabilites.png)

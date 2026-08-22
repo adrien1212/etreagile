@@ -51,8 +51,8 @@ axé sur l’inspection et l’adaptation.
 
 -   Confiance et respect
 -   Si besoin, mettre en place un moyen de feedback anonyme  
-    MAIS s’il a un problème de confiance (vouloir se cacher) alors c’est
-    la problème numéro 1 à régler
+    MAIS s’il y a un problème de confiance (vouloir se cacher) alors c’est
+    le problème numéro 1 à régler
 
 ### Participation
 
@@ -63,18 +63,18 @@ axé sur l’inspection et l’adaptation.
 ### Balancer le négatif avec le positif
 
 -   Qu’est-ce qu’on peut améliorer
--   Qu’est-ce qu’on a réussit  
+-   Qu’est-ce qu’on a réussi  
     Amplifier les bonnes choses et les partager avec les autres équipes
     de l’entreprise
 
 ### Agir
 
--   Les feedback doivent amener à des changements  
+-   Les feedbacks doivent amener à des changements  
     Élaborer un plan d’action avec l’équipe
 -   (idée) Ajouter les axes d’amélioration au Product Backlog pour ne
     pas les oublier  
 
-## Les aspect à couvrir
+## Les aspects à couvrir
 
 -   Productivité et efficacité
 -   Périmètre et *Definition of Done*
@@ -97,19 +97,19 @@ membres de l’équipe se souviennent de la philosophie Agile
 
 -   Vent : les forces de l’équipe
 -   Ancre : les freins à leur travail
--   Récifs: les risques qu’ils anticipent sur la suite du projet
+-   Récifs : les risques qu’ils anticipent sur la suite du projet
 -   Soleil : ce qui rend la vie sur le projet agréable
--   Ile : leur objectif en tant qu’équipe (facultatif)
+-   Île : leur objectif en tant qu’équipe (facultatif)
 
 
 ### Loup Garou
 
-![Speed Boat Retrospective](loupgarou.png?width=30pc)
+![Loup Garou](loupgarou.png?width=30pc)
 
 
-#### Etape 1
+#### Étape 1
 
-1.  Les participants piocher une carte au hasard. Ils ne doivent pas
+1.  Les participants piochent une carte au hasard. Ils ne doivent pas
     dévoiler leur carte aux autres participants.
 
 2.  Les participants remplissent des Post-its en suivant le thème défini
@@ -120,10 +120,10 @@ membres de l’équipe se souviennent de la philosophie Agile
 
 4.  On fait 2 à 3 tours pour incarner plusieurs personnages
 
-#### Etape 2
+#### Étape 2
 
 Les participants choisissent la carte qu’ils veulent.
 
-#### Etape 3
+#### Étape 3
 
 On vote sur les 3 points clés à mettre en œuvre dans le prochain Sprint.

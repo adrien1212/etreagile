@@ -13,4 +13,4 @@ weight = 7
 - Un projet : est la phase de création d'un produit innovant
 - Un produit : c'est lorsqu'on maîtrise le produit et qu'on le livre de manière régulière au client
 
-Exemple : Lorsque vous commandé un IPhone, Apple n'a pas un projet pour vous mais un produit. En revanche, lorsqu'il veulent créer le prochain IPhone là il y a un projet.
+Exemple : Lorsque vous commandez un iPhone, Apple n'a pas un projet pour vous mais un produit. En revanche, lorsqu'ils veulent créer le prochain iPhone là il y a un projet.

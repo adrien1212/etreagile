@@ -17,11 +17,11 @@ est une aptitude, en général apprise à l’école.
 - les **attitudes** en revanche sont *la façon dont on se comporte* lorsqu’on utilise 
 ses aptitudes. Avec la même aptitude de savoir écrire, vous pouvez écrire avec des 
 attitudes différentes :
-   - «écrire de façon concise», avec comme attitude de chercher l’efﬁcacité
+   - «écrire de façon concise», avec comme attitude de chercher l’efficacité
    - «écrire de façon pompeuse», avec cette fois l’attitude de chercher à impressionner.
 
 {{% notice style="warning" title=" " icon=" " %}}
-En logiciel, les aptitudes représente la capacité à programmer, la familiarité avec des technologies, outils ou frameworks.
+En logiciel, les aptitudes représentent la capacité à programmer, la familiarité avec des technologies, outils ou frameworks.
 
 Par-dessus ces aptitudes, le craft est un ensemble d’attitudes adaptées aux enjeux des logiciels actuels.
 {{% /notice %}}

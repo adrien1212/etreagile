@@ -11,9 +11,9 @@ weight = 30
 > [!danger] Définition
 >  Agile n'est pas simplement un ensemble de règles. Bien au contraire, Agile est un ensemble de droits, d'attentes et de disciplines formant la plateforme conceptuelle d'une profession éthique
 
-Kent Beck avait déclarer que le but de Agile était d'abord de réparer la fracture entre l'entreprise et les développeurs, d'où l’apparition des droits suivants 
+Kent Beck avait déclaré que le but de Agile était d'abord de réparer la fracture entre l'entreprise et les développeurs, d'où l’apparition des droits suivants 
 - droits pour le client
-- droits pour le développeurs
+- droits pour les développeurs
 
 Ces droits sont complémentaires créant un équilibre entre les attentes des deux groupes
 
@@ -29,4 +29,4 @@ Ces droits sont complémentaires créant un équilibre entre les attentes des de
 - de produire du code de haute qualité.
 - de demander et recevoir de l'aide.
 - de mettre à jour leurs estimations.
-- d'accepter des responsabilités au lieu de se les voir infligés.
+- d'accepter des responsabilités au lieu de se les voir infliger.

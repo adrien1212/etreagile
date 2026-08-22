@@ -6,7 +6,7 @@ weight = 40
 
 > [!definition] Définition
 > - the sequence of activities an organization undertakes to deliver upon a customer request
-> - (ou) the sequence of activities required to design, produce, and deliver a good or service to a customer, including the dual ows of information andmaterial. [^1]
+> - (ou) the sequence of activities required to design, produce, and deliver a good or service to a customer, including the dual ows of information and material. [^1]
 
 ## Conséquence
 

@@ -8,10 +8,10 @@ weight = 11
 > Le cycle de vie Agile mise sur les deux aspects des caractéristiques itératives et incrémentales
 
 Les cycles de vie Agile associent les approches [itératives et incrémentales]({{< relref "cycles_de_vie" >}}) afin de s’adapter à des
-changements importants et de créer plus fréquemment de la valeur dans le projet. Elle assure ainsi au
+changements importants et de créer plus fréquemment de la valeur dans le projet. Ils assurent ainsi au
 client une visibilité, une confiance et la maîtrise du produit.
 
-## Agile basé sur des itération
+## Agile basé sur des itérations
 
 ![Cycle de vie basé sur itération](cycleagile1.png)
 
@@ -19,7 +19,7 @@ Dans le cycle de vie Agile basé sur des itérations, tous les blocs de temps on
 aboutissent à des fonctionnalités testées et opérationnelles.
 
 Elle traite les fonctionnalités par ordre d’importance. Lorsque l’équipe a choisi la **fonctionnalité** elle
-doit la **traiter complètement** (exigence puis analyse, etc)
+doit la **traiter complètement** (exigence puis analyse, etc.)
 
 ## Agile basé sur des flux
 
@@ -39,6 +39,6 @@ l’échéancier le plus approprié pour la planification, les revues de produit
 
 Ainsi, le framework Scrum combine les deux approches avec la notion de sprint :
 - à l'issue du sprint, il y a un *Incrément* de produit qui est réalisé
-- le feedback sollicité sur cet Incrément permet d'ajuster la cycle du produit dans le sprint suivant
+- le feedback sollicité sur cet Incrément permet d'ajuster le cycle du produit dans le sprint suivant
 
 Un sprint est donc une itération qui produit un résultat qui ajoute un nouveau contenu (incrémental) et enrichit du contenu ajouté dans un incrément précédent (itératif).

@@ -17,13 +17,13 @@ Ils fournissent des descriptions de haut niveau du paysage informatique de l'org
 - Quels sont les actifs informatiques qui devraient être réutilisés ou mis hors service à l'avenir ?
 - Quelles améliorations techniques des actifs informatiques sont nécessaires à l'avenir et quand ?
 
-## Example de Landscape Diagrams
+## Exemple de Landscape Diagrams
 ![landscape diagram](landscape.png)
 
 ![landscape diagram](landscape2.png)
 
 ### == La roadmap IT
-De même manière que les roadmap métier (business-focused), on va retrouver des Roadmap IT. 
+De la même manière que les roadmaps métier (business-focused), on va retrouver des Roadmap IT. 
 
 Elles permettent aux architectes :
 - de planifier les changements et les améliorations techniques de l'organisation, 

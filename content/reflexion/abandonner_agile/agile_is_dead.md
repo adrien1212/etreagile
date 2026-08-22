@@ -16,8 +16,8 @@ De nouveau, la prolifération des certifications et pseudo-formations
 
 > Once the Manifesto became popular, the word agile became a magnet for anyone with points to espouse, hours to bill, or products to sell. 
 
-## Revenir au base
-Comme j'ai souhaité le faire avec ce site, revenir au base pour comprendre en profondeur le mouvement Agile
+## Revenir aux bases
+Comme j'ai souhaité le faire avec ce site, revenir aux bases pour comprendre en profondeur le mouvement Agile
 
 > What to do:
 > - Find out where you are

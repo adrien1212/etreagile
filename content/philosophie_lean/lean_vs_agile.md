@@ -9,12 +9,12 @@ weight = 40
 > - [LEAN vs AGILE : col bleu vs col blanc ? - Scrum Life](https://youtu.be/YTTiWZiUnjQ)
 > - [Méthode Agile VS Lean - Vraiment concurrents ? ](https://youtu.be/DO_WInLIcdA)
 
-**TL;DR : le mieux n'est pas d'opposé Lean à Agile mais de les considérer comme complémentaire; plus fort ensemble**
+**TL;DR : le mieux n'est pas d'opposer Lean à Agile mais de les considérer comme complémentaires; plus fort ensemble**
 
 ## Lean & Agile complémentaires
 
 Lean et Agile sont deux variantes d’un même mouvement dans l’industrie du logiciel. Elles
-se concentrer sur la livraison efficace de produits dont les clients ont réellement besoin. La
+se concentrent sur la livraison efficace de produits dont les clients ont réellement besoin. La
 différence réside dans les moyens mis en œuvre pour atteindre cet objectif.
 
 - Agile, met l’accent sur l’établissement d’un processus bien organisé, qui permet des livraisons
@@ -51,15 +51,15 @@ le dossier commercial, dirige la conception technique du produit, gère le proce
 
 - Les ingénieurs en chef possèdent généralement de solides compétences techniques qui leur
 permettent de diriger et de coordonner efficacement le travail technique des ingénieurs, des
-concepteurs et des autres développeurs affectés à leurs projets. Sa principale responsabilité est d’intégrer le travail de l’équipe de développement autour d’une vision cohérente et
+concepteurs et des autres développeurs affectés à leurs projets. Leur principale responsabilité est d’intégrer le travail de l’équipe de développement autour d’une vision cohérente et
 convaincante du produit.
 
-- Le Lean essaie d’orienter l’équipe vers du temps réel. Par exemple, avec Scrum on va "attendre" la rétrospective pour faire l’analyse du Sprint, mais on va oublier ce qu’il sait passer les premiers jours ...
+- Le Lean essaie d’orienter l’équipe vers du temps réel. Par exemple, avec Scrum on va "attendre" la rétrospective pour faire l’analyse du Sprint, mais on va oublier ce qu’il s’est passé les premiers jours ...
 
 ### Les principes
 ![Agile vs Lean](agile_vs_lean.png)
 
-Avec reprenant les principes des deux mouvement, on pourrait dire :
+En reprenant les principes des deux mouvements, on pourrait dire :
 - Agile se concentre principalement sur la [dimension humaine]({{< relref "dimension_humaine.md" >}})
 - Lean aurait tendance à se concentrer sur la *Discipline*
 

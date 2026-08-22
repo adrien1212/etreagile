@@ -10,7 +10,7 @@ weight = 25
 > - [The five keys to a successful Google team](https://www.michigan.gov/-/media/Project/Websites/mdhhs/Folder4/Folder10/Folder3/Folder110/Folder2/Folder210/Folder1/Folder310/Google-and-Psychological-Safety.pdf?rev=7786b2b9ade041e78828f839eccc8b75)
 > - [Comment changer une culture organisationnelle ? Les leçons de NUMMI !](https://coach-agile.com/2021/11/changer-culture-organisationnelle/)
 
-Dans la [section précédente]({{< relref "organisation_agile" >}}), nous avons commencer à évoquer l'importance de l'implication de l'organisation dans une transformation Agile. Le livre *Accelerate: The Science of Lean Software and DevOps* nous apporte plusieurs éléments de réponse que nous évoquons ci-dessous.
+Dans la [section précédente]({{< relref "organisation_agile" >}}), nous avons commencé à évoquer l'importance de l'implication de l'organisation dans une transformation Agile. Le livre *Accelerate: The Science of Lean Software and DevOps* nous apporte plusieurs éléments de réponse que nous évoquons ci-dessous.
 
 > [!definition] Définition
 > The organization’s culture (*culture d'entreprise*) predicts software delivery performance and the success of the company as a whole.
@@ -28,7 +28,7 @@ Les auteurs distinguent trois types de cultures, appelées « typologie de Westr
 
 > Just as Dr. Westrum found in healthcare organizations, a high-trust, generative culture also predicted software delivery and organizational performance in technology value streams. [^1]
 
-Notre objectif est de viser une culture "Generative"; Les principales caractéristiques d'une équipe générative sont :
+Notre objectif est de viser une culture "Generative"; les principales caractéristiques d'une équipe générative sont :
 - une forte coopération 
 - Partage du risque
 - une réaction irréprochable aux échecs
@@ -37,11 +37,11 @@ Notre objectif est de viser une culture "Generative"; Les principales caractéri
 
 **=> Les organisations dotées de ce type de culture obtiennent de meilleurs résultats.**
 
-![outomes](outcomes.png)
+![outcomes](outcomes.png)
 
 Également on notera l'importance de la communication (voir également section suivante [Psychological Safety]({{< relref "psychological_safety" >}}))
 
-> Organization with better information flow function more effectively
+> Organizations with better information flow function more effectively
 
 Et pour accentuer cet élément, une étude menée par Google nous dit
 

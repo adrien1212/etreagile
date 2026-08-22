@@ -52,7 +52,7 @@ création du produit.
 
 **Affirmation 2**. *Tout le monde a le droit de prendre la parole*
 
-Du développeur au client, tout le monde à de droit de parler et toutes
+Du développeur au client, tout le monde a le droit de parler et toutes
 les voix sont équivalentes
 
 **Affirmation 3**. *Seuls les éléments remplissant la Definition of Done
@@ -67,7 +67,7 @@ fini
 
 ### 1. Découvrir le travail réalisé
 
-L’équipe Scrum (PO, SM et dév) doivent être au courant de ce qui a été
+L’équipe Scrum (PO, SM et dév) doit être au courant de ce qui a été
 réalisé tout au long du sprint.
 
 -   Est-ce qu’on se rapproche du Sprint Goal ?
@@ -83,13 +83,13 @@ l’effet démo.
 ### 3. Être pressé
 
 Les parties prenantes doivent être présentes et intéressées. Si elles ne
-viennent, c’est un signe qu’on ne travaille pas sur la bonne chose. ⇒
-Demander aux parties prenantes se qu’on aurait du faire pour qu’elles
+viennent pas, c’est un signe qu’on ne travaille pas sur la bonne chose. ⇒
+Demander aux parties prenantes ce qu’on aurait dû faire pour qu’elles
 viennent.
 
 ### 4. Faire une démo
 
-Si la démonstration sert à monter qu’on a bien travailler alors inutiles
+Si la démonstration sert à montrer qu’on a bien travaillé alors inutile
 :
 
 -   On travaille bien c’est un fait. Relation de confiance

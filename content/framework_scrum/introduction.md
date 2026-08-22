@@ -17,7 +17,7 @@ Lorsqu'on tape "Scrum" dans Google on tombe principalement sur des diagrammes se
 On retrouve classiquement :
 - Les rôles : Scrum Master, Product Owner et Développeurs
 - Les artefacts : Product Backlog, Sprint Backlog, Incrément
-- Les évènements : Spring Planning, Daily, Rétrospective, Review
+- Les évènements : Sprint Planning, Daily, Rétrospective, Review
 
 ## ... c'est également
 - Un Scrum Guide : qui présente le *framework* (cadre de travail en français) Scrum

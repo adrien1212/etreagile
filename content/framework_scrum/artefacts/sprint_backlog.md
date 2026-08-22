@@ -5,11 +5,11 @@ weight=2
 +++
 
 > [!danger] Définition
->  Décris ce que les membres de l’équipe doivent développer au cours d’un sprint
+>  Décrit ce que les membres de l’équipe doivent développer au cours d’un sprint
 Le Sprint Backlog est créé pendant le Sprint Planning. Il représente le plan de l’équipe pour
 atteindre le Sprint Goal.
 1. L’équipe Scrum collabore pour définir un Sprint Goal.
-2. Les développeurs (influencé par le PO) choisissent les éléments du Product Backlog pour
+2. Les développeurs (influencés par le PO) choisissent les éléments du Product Backlog pour
 atteindre le Sprint Goal
 
 Le Sprint Backlog est composé du :
@@ -30,7 +30,7 @@ Le Sprint Backlog est donc amené à évoluer chaque jour (lors du daily) en fon
 nous apprenons.
 
 Il s’agit donc d’un élément de communication visuel entre les membres de l’équipe. L’équipe
-à son plan de route et elle le fera évoluer chaque jour.
+a son plan de route et elle le fera évoluer chaque jour.
 
 ## L’engagement de l’équipe
 > [!affirmation] Affirmation
@@ -39,7 +39,7 @@ L’équipe ne s’engage pas à finir l’ensemble des user-stories lors du Spr
 minima le Sprint Goal.
 
 
-## Product Backlog VS Spring Backlog
+## Product Backlog VS Sprint Backlog
 Le Product Backlog enregistre les exigences du point de vue du client. Il s’agit de la liste des
 fonctionnalités ou user stories que le client souhaite obtenir, classées selon la priorité qu’il
 accorde à chacune d’elles.

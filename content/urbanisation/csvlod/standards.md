@@ -13,7 +13,7 @@ Les standards permettent de répondre à la question "Comment voulons-nous faire
 - stacks autorisées (Java + Spring, Azure, etc.)
 - standards de sécurité, patterns d’intégration, guidelines de développement.
 
-Également si on revient sur l'[ISO 27001]({{< relref "iso_27001" >}}) en plus d'être dans les [consideration]({{< relref "considerations" >}}), pour le respecter on va le décliner en standards techniques :
+Également si on revient sur l'[ISO 27001]({{< relref "iso_27001" >}}) en plus d'être dans les [considérations]({{< relref "considerations" >}}), pour le respecter on va le décliner en standards techniques :
 - « Tous les systèmes doivent implémenter ce modèle de gestion des logs de sécurité. »
 - « Les bases de données contenant des données sensibles doivent utiliser le chiffrement au repos et en transit selon telle norme. »
 - « Les habilitations doivent être gérées via ce référentiel d’identités et ce processus. »

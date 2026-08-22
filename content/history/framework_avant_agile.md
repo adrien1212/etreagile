@@ -15,8 +15,8 @@ Contrairement à ce que l'on pourrait croire, les frameworks comme Scrum ou XP n
 - [eXtreme Programming]({{< relref "framework_xp/index" >}}) créé en 1995
 - [Scrum]({{< relref "framework_scrum/index" >}}) créé en 1994
 
-Grâce à cette connaissance historique, nous pouvons dire que le mouvement Agile prend inspiration sur ces cadres de travails. Et, lorsqu'on regarde qui sont les signataire du Manifeste Agile, nous remarquons qu'ils sont issus de communautés diverses
+Grâce à cette connaissance historique, nous pouvons dire que le mouvement Agile prend inspiration sur ces cadres de travail. Et, lorsqu'on regarde qui sont les signataires du Manifeste Agile, nous remarquons qu'ils sont issus de communautés diverses
 
 ![signataires_manifeste](signataires_manifeste.png)
 
-C'est dans cette diversité de cadre de travail (mais centrés sur des valeurs et principes communs) qu'est naît le [Manifeste Agile]({{< relref "philosophie_agile/philosophie/manifeste" >}}).
+C'est dans cette diversité de cadres de travail (mais centrés sur des valeurs et principes communs) qu'est né le [Manifeste Agile]({{< relref "philosophie_agile/philosophie/manifeste" >}}).

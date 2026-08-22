@@ -1,5 +1,5 @@
 +++
-title = "Développeurs VS Executants"
+title = "Développeurs VS Exécutants"
 description = "Depuis le Scrum Guide 2020, on parle de Developers et non plus d'équipe de développement. La différence entre développeur et exécutant."
 weight = 20
 +++
@@ -30,19 +30,19 @@ toujours redevables de :
 
 - Équipe de développement : ensemble de codeurs qui exécutent (des
 exécutants) des tâches fournies.  
-- Développeurs : est une personne qui travaille pour réaliser un
+- Développeur : est une personne qui travaille pour réaliser un
 *Incrément* : codeur, testeur, analyste, ...
 
 ### Quelle influence ?
 > [!affirmation] Affirmation
->  Scrum ne reconnaît aucune sous-équipe. Tous le monde travaille dans une
+>  Scrum ne reconnaît aucune sous-équipe. Tout le monde travaille dans une
 >  seule et même équipe.
 
 Certaines personnes considéraient *l’équipe de développement* comme une
 sous-équipe. La nouvelle formulation renforce le fait qu’il existe une
 seule équipe Scrum qui contient des personnes capables de remplir les
 responsabilités (Scrum Master, Product Owner et Développeurs).  
-Avec Le terme de *développeur* on englobe toutes les personnes de
+Avec le terme de *développeur* on englobe toutes les personnes de
 l’équipe Scrum qui s’engagent à créer un Incrément utilisable à chaque
 Sprint. Cela inclut les développeurs, les testeurs et tous les autres
 spécialistes nécessaires pour s’assurer de la bonne réalisation de
@@ -50,12 +50,12 @@ l’Incrément.
 
 ### Travailler avec des gens
 
-Néanmoins les personnalités de chacun doivent être prise en compte pour
+Néanmoins les personnalités de chacun doivent être prises en compte pour
 la bonne réalisation du projet. Malgré le fait que le Scrum Guide nous
 dit de *travailler avec des personnes motivées* ceci peut être compliqué
 à appliquer en entreprise. En effet, au sein d’un groupe de travail des
 personnes seront *passives* et d’autres *actives*.  
-**Note :** que la personne doit passive ou active il n’y a aucun
+**Note :** que la personne soit passive ou active il n’y a aucun
 jugement de valeur à porter.
 
 ### Le danger
@@ -67,7 +67,7 @@ En tant que chef de projet ou facilitateur Agile (e.g. Scrum Master) il
 est important de savoir comment les personnes se sentent et veulent se
 sentir au sein du projet.
 
-- Comment pensez vous être considéré par votre entreprise en ce moment ?
+- Comment pensez-vous être considéré par votre entreprise en ce moment ?
 
 - Comment vous considérez-vous en ce moment ?
 
@@ -134,6 +134,6 @@ motivation*. Au quotidien les développeurs prennent sur eux afin de
 faire évoluer l’application dans le bon sens.
 
 1.  Identifier la dette et mettre sur la table les problèmes
-2.  Trouver avec eux (chois technologique) pour réduire la dette
+2.  Trouver avec eux (choix technologique) pour réduire la dette
 
 ⇒ Amélioration de la confiance entre les managers et l’équipe
