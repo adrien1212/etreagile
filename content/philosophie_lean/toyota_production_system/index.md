@@ -1,5 +1,6 @@
 +++
 title = "Toyota Production System"
+description = "Le Toyota Production System repose sur deux piliers : le Jidoka et le juste-à-temps."
 weight = 15
 +++
 

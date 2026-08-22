@@ -1,5 +1,6 @@
 +++
 title="A-t-on besoin de planifier ?"
+description="Le Manifeste ne dit pas de ne pas planifier. Ce qu'un plan agile doit contenir et le droit du client à en avoir un."
 weight=20
 +++
 

@@ -1,5 +1,6 @@
 +++
 title="Agile à l'échelle n'existe pas"
+description="Pour Robert Martin, l'agilité à l'échelle n'existe pas : il suffit de petites équipes agiles et de management classique pour les coordonner."
 weight=10
 +++
 

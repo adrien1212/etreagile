@@ -1,5 +1,6 @@
 +++
 title = "RGPD"
+description = "Ce qu'est une donnée à caractère personnel au sens du RGPD, et pourquoi la définition est plus large qu'on ne le croit."
 weight = 10
 +++
 

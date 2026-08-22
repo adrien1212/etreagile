@@ -1,5 +1,6 @@
 +++
 title = "Philosophie Agile"
+description = "Retour aux fondamentaux de l'agilité : sa genèse, ses valeurs, ses caractéristiques et les raisons de son adoption dans le logiciel."
 weight = 30
 comments = true
 +++

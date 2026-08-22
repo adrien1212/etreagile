@@ -1,5 +1,6 @@
 +++
 title = "Quelle conclusion ?"
+description = "Les critiques ne visent pas la philosophie agile mais son application. Ce que l'on peut en retenir."
 weight = 99
 +++
 

@@ -1,5 +1,6 @@
 +++
 title="Product Backlog"
+description="Le Product Backlog est une liste ordonnée et émergente : un plan provisoire pour atteindre le Product Goal, tenu par le Product Owner."
 weight=1
 +++
 

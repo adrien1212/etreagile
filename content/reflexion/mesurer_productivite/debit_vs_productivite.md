@@ -1,5 +1,6 @@
 +++
 title = "Débit vs Productivité"
+description = "Le débit se mesure au niveau du système, la productivité au niveau de l'individu. Pourquoi préférer le premier."
 weight = 10
 +++
 

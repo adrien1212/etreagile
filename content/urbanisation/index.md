@@ -1,5 +1,6 @@
 +++
 title = "Urbanisation des SI (EA)"
+description = "Urbanisation des SI et architecture d'entreprise : ce que recouvrent ces deux termes et ce qui les distingue."
 weight = 150
 comments = true
 +++

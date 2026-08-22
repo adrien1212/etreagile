@@ -1,5 +1,6 @@
 +++
 title="3 Principes"
+description="Les trois principes de Kanban : visualiser le travail, limiter le travail en cours et optimiser le flux."
 weight=20
 +++
 

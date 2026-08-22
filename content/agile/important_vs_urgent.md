@@ -1,5 +1,6 @@
 +++
 title = "Important VS Urgent"
+description = "Distinguer l'important de l'urgent pour ne pas subir la pression du quotidien, avec la matrice d'Eisenhower comme grille de tri."
 weight = 110
 +++
 

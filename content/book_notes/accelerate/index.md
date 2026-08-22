@@ -1,5 +1,6 @@
 +++
 title = "Accelerate"
+description = "Notes de lecture d'Accelerate : mesurer la performance, l'importance de la culture et les pratiques techniques qui l'améliorent."
 weight = 20
 +++
 

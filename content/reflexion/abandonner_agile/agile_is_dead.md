@@ -1,5 +1,6 @@
 +++
 title = "Agile is dead"
+description = "Dave Thomas déclare Agile mort et propose de parler d'agilité : le mot est devenu un marché pour consultants et éditeurs."
 weight = 20
 +++
 

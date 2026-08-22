@@ -1,5 +1,6 @@
 +++
 title = "Quels facteurs utiliser ?"
+description = "Un point de story mesure l'effort : volume de travail, incertitude et complexité, et toujours relativement aux autres stories."
 weight = 20
 +++
 

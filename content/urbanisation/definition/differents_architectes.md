@@ -1,5 +1,6 @@
 +++
 title = "Les différents architectes"
+description = "Solution architect, enterprise architect, technical architect : à quel niveau chacun intervient dans l'organisation."
 weight = 40
 +++
 

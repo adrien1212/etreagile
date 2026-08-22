@@ -1,6 +1,6 @@
-
 +++
 title = "Quand utiliser Waterfall ?"
+description = "Le modèle en cascade reste pertinent quand les exigences sont stables et la technologie maîtrisée. Comment reconnaître ces situations."
 weight = 20
 +++
 Depuis quelques années toute entreprise visent l'agilité, pensant que ceci va résoudre une partie de ces problèmes organisationnels. Mais certains produits sont adaptés pour être réalisé en cascade. 

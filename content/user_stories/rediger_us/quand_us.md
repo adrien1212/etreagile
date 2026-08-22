@@ -1,5 +1,6 @@
 +++
 title = "Quand écrire les US ?"
+description = "Écriture initiale, affinage en release planning puis découpage des epics : à quel moment du projet écrire les user stories."
 weight = 20
 +++
 

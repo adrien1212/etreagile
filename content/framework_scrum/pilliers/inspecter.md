@@ -1,5 +1,6 @@
 +++
 title = "Inspecter"
+description = "Inspecter régulièrement les progrès et les artefacts, sans tomber dans le contrôle des performances individuelles."
 weight = 2
 +++
 

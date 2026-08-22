@@ -1,5 +1,6 @@
 +++
 title = "Landscape"
+description = "Les Landscapes cartographient le paysage IT existant et planifié : systèmes, données, flux et actifs redondants."
 weight = 40
 +++
 

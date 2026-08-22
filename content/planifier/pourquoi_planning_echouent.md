@@ -1,5 +1,6 @@
 +++
 title = "Les échecs de la planification"
+description = "Les raisons identifiées par Mike Cohn pour lesquelles la planification traditionnelle échoue, à commencer par le découpage par activité."
 weight = 3
 +++
 

@@ -1,5 +1,6 @@
 +++
 title="The Circle of Life"
+description="Le Circle of Life de XP : trois anneaux de pratiques, du travail d'équipe jusqu'au TDD et au refactoring."
 weight=20
 +++
 

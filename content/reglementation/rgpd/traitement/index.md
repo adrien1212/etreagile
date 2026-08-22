@@ -1,5 +1,6 @@
 +++
 title = "Traitement de DP"
+description = "Ce qui constitue un traitement de données personnelles, et pourquoi chaque traitement doit avoir une finalité déterminée."
 weight = 5
 +++
 

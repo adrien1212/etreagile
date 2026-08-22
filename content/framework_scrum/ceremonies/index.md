@@ -1,5 +1,6 @@
 +++
 title="Cérémonies Scrum"
+description="Les quatre évènements Scrum créent de la régularité et remplacent les réunions improvisées. À quoi sert chacun d'eux."
 weight=80
 +++
 

@@ -1,5 +1,6 @@
 +++
 title="Démarche Kanban"
+description="La démarche Kanban suit le cycle Plan-Do-Study-Act : concevoir le système, le mettre en oeuvre, l'étudier puis l'améliorer."
 weight=40
 +++
 

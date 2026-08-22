@@ -1,5 +1,6 @@
 +++
 title="Review"
+description="La Sprint Review est une session de travail avec les parties prenantes, pas une présentation. Les erreurs fréquentes à éviter."
 weight=84
 +++
 

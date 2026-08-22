@@ -1,5 +1,6 @@
 +++
 title = "Pourquoi est-ce nécessaire ?"
+description = "Sans architecture d'entreprise, chaque département optimise son périmètre et le SI devient un assemblage de doublons et de dépendances."
 weight = 20
 +++
 

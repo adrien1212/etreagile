@@ -1,5 +1,6 @@
 +++
 title = "Agile is cancer"
+description = "Erik Meijer estime qu'Agile est un cancer à éliminer de l'industrie. Ce qu'il reproche exactement au mouvement."
 weight = 10
 +++
 

@@ -1,5 +1,6 @@
 +++
 title="Pratiques"
+description="Le craft ne fige pas ses pratiques, mais on y retrouve celles de XP : clean code, refactoring, TDD, conception simple."
 weight=10
 +++
 

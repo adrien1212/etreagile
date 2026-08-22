@@ -1,5 +1,6 @@
 +++
 title = "Value Stream Map"
+description = "La Value Stream Map cartographie la suite d'activités menant à la livraison, et rend visibles les délais cachés du processus."
 weight = 40
 +++
 

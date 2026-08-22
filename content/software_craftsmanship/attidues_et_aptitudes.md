@@ -1,5 +1,6 @@
 +++
 title = "Aptitudes et Attitudes"
+description = "Les aptitudes sont ce que l'on sait faire, les attitudes la façon dont on le fait. Pourquoi le craft repose surtout sur les secondes."
 weight = 40
 +++
 

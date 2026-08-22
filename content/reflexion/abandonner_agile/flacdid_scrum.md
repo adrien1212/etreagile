@@ -1,5 +1,6 @@
 +++
 title = "Flaccid Scrum"
+description = "Le Flaccid Scrum de Martin Fowler : adopter Scrum sans pratiques techniques finit par ralentir l'équipe."
 weight = 25
 +++
 

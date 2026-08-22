@@ -1,5 +1,6 @@
 +++
 title="Product Goal"
+description="Le Product Goal décrit l'état futur visé du produit. Un seul à la fois, mesurable, il séquence le travail sur le long terme."
 weight=1
 +++
 

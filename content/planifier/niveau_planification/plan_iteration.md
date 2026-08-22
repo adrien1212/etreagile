@@ -1,5 +1,6 @@
 +++
 title = "Plan d'itération"
+description = "Au sein d'une release, seule l'itération qui démarre est planifiée en détail : c'est le rôle du Sprint Planning."
 weight = 40
 +++
 

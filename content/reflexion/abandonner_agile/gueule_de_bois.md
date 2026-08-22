@@ -1,5 +1,6 @@
 +++
 title = "Gueule de bois Agile"
+description = "La gueule de bois agile décrite par Robert Martin : coachs, certifications express et promesses vendues aux managers."
 weight = 5
 +++
 

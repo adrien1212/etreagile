@@ -1,5 +1,6 @@
 +++
 title = "The failure of Agile"
+description = "Pour Andy Hunt, l'agile a échoué par manque d'expérience : on copie les pratiques sans comprendre les valeurs."
 weight = 15
 +++
 

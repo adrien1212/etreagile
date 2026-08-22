@@ -1,5 +1,6 @@
 +++
 title = "Réglementation et Normes"
+description = "Les contraintes réglementaires qui pèsent sur un système d'information : RGPD, rôle de la CNIL, ANSSI et normes ISO."
 weight = 160
 +++
 

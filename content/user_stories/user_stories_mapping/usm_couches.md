@@ -1,5 +1,6 @@
 +++
 title = "Les couches"
+description = "Les couches d'une story map : les activités forment la colonne vertébrale, puis les étapes, puis les détails."
 weight = 15
 +++
 

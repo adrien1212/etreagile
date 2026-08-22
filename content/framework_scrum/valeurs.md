@@ -1,5 +1,6 @@
 +++
 title="5 Valeurs"
+description="Les cinq valeurs Scrum — engagement, focus, ouverture, respect et courage — et ce qu'elles impliquent concrètement pour l'équipe."
 weight=30
 +++
 

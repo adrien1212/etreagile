@@ -1,5 +1,6 @@
 +++
 title = "Mesurer productivité ?"
+description = "La productivité en développement logiciel est difficile à quantifier. Ce qu'en disent Martin Fowler et Modern Software Engineering."
 weight = 8
 +++
 

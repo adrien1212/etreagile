@@ -1,5 +1,6 @@
 +++
 title = "Modèle en Cascade"
+description = "Retour sur le modèle en cascade et le cycle en V à partir des documents d'origine, pour dépasser la caricature qu'on en fait."
 weight = 20
 comments = true
 +++

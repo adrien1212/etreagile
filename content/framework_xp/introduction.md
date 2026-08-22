@@ -1,5 +1,6 @@
 +++
 title="Introduction"
+description="XP est, selon Robert Martin, le processus agile le mieux défini et le plus complet. La plupart des autres en sont des sous-ensembles."
 weight=10
 +++
 

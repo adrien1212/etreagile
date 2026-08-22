@@ -1,5 +1,6 @@
 +++
 title = "Abandonner Agile ?!"
+description = "Plusieurs signataires du Manifeste ont pris leurs distances avec l'agile. Revue de leurs articles et de leurs arguments."
 weight = 1
 +++
 

@@ -1,5 +1,6 @@
 +++
 title = "Pourquoi USP et pas heures ?"
+description = "Pourquoi estimer en points plutôt qu'en heures, et pourquoi la valeur se trouve dans la discussion plus que dans le chiffre."
 weight = 10
 +++
 

@@ -1,5 +1,6 @@
 +++
 title = "Standards"
+description = "Les Standards fixent la façon homogène de construire l'IT : stacks autorisées, règles de sécurité, patterns d'intégration."
 weight = 20
 +++
 

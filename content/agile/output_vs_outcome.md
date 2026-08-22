@@ -1,5 +1,6 @@
 +++
 title = "Output vs Outcome"
+description = "L'output est ce que l'on livre, l'outcome est l'impact réel sur les utilisateurs. Pourquoi mesurer le second plutôt que le premier."
 weight = 80
 +++
 

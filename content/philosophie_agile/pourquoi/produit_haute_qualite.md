@@ -1,5 +1,6 @@
 +++
 title = "Produit de haute qualité"
+description = "Livraison continue, feedback permanent, tests et refactoring : les leviers par lesquels l'agilité vise un produit de qualité."
 weight = 60
 +++
  

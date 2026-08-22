@@ -1,5 +1,6 @@
 +++
 title = "Réponse à des problèmes"
+description = "Les hypothèses du cycle en cascade et pourquoi elles ont cessé de tenir avec l'essor d'Internet et des produits logiciels."
 weight = 10
 +++
 

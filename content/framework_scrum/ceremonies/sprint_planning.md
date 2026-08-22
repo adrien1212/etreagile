@@ -1,5 +1,6 @@
 +++
 title="Sprint Planning"
+description="Le Sprint Planning répond à trois questions : pourquoi ce sprint, que peut-on faire, et comment le travail sera réalisé."
 weight=81
 +++
 

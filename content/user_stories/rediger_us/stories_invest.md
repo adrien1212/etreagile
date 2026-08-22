@@ -1,5 +1,6 @@
 +++
 title = "Stories INVEST"
+description = "L'acronyme INVEST : indépendante, négociable, valorisable, estimable, small et testable. Chaque critère expliqué avec des exemples."
 weight = 30
 +++
 

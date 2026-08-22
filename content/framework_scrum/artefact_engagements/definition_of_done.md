@@ -1,5 +1,6 @@
 +++
 title="Definition of Done"
+description="La Definition of Done fixe le niveau de qualité à atteindre pour qu'une tâche soit finie. Qui la rédige et comment la construire."
 weight=3
 +++
 

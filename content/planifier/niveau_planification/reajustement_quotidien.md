@@ -1,5 +1,6 @@
 +++
 title = "Réajustement Quotidien"
+description = "Le point quotidien permet d'ajuster le plan de la journée et de prendre des décisions tactiques sans attendre la fin de l'itération."
 weight = 50
 +++
 

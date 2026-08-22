@@ -1,5 +1,6 @@
 +++
 title = "La productivité ?!"
+description = "Comment définir la productivité d'une équipe de développement, pourquoi on la mesure au niveau de l'équipe et jamais de l'individu."
 weight = 5
 +++
 

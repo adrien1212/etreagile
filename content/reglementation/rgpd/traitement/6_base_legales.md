@@ -1,5 +1,6 @@
 +++
 title = "6 bases légales d'un traitement"
+description = "Consentement, contrat, obligation légale, intérêt vital, mission d'intérêt public, intérêt légitime : les six bases légales de l'article 6."
 weight = 20
 +++
 

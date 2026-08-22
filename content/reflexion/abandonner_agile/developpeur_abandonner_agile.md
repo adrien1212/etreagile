@@ -1,5 +1,6 @@
 +++
 title = "Dev should abandon Agile"
+description = "Ron Jeffries invite les développeurs à abandonner les méthodes agiles telles que les organisations les appliquent."
 weight = 1
 +++
 

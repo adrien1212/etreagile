@@ -1,5 +1,6 @@
 +++
 title = "Dora Core Model"
+description = "Le DORA Core rassemble les capacités, les métriques et les résultats les mieux établis par les années de recherche de DORA."
 weight = 10
 +++
 

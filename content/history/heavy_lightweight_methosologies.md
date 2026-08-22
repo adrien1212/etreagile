@@ -1,5 +1,6 @@
 +++
 title = "Lightweight et Agile"
+description = "Méthodologies heavyweight et lightweight : d'où vient l'opposition, et pourquoi le terme Agile a remplacé celui de Lightweight en 2001."
 weight = 20
 +++
 

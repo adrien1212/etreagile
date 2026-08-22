@@ -1,5 +1,6 @@
 +++
 title = "Framework XP"
+description = "eXtreme Programming relie gestion de projet et pratiques techniques, là où Scrum se concentre sur l'organisation de l'équipe."
 weight = 70
 comments = true
 +++

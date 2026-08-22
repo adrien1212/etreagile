@@ -1,5 +1,6 @@
 +++
 title = "Viser l'excellence technique"
+description = "Agile fait le lien entre gestion de projet et excellence technique. Ce que le mouvement a perdu en oubliant le second volet."
 weight = 50
 +++
 

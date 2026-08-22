@@ -1,5 +1,6 @@
 +++
 title="Une profession"
+description="Exercer une profession n'est pas la même chose qu'avoir un travail. Ce que cela implique pour un développeur."
 weight=20
 +++
 

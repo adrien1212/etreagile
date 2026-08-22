@@ -1,5 +1,6 @@
 +++
 title = "Vision globale d'une Story Map"
+description = "Construire une story map à partir des outcomes visés : formuler l'idée, identifier les utilisateurs et découper les grandes stories."
 weight = 10
 +++
 

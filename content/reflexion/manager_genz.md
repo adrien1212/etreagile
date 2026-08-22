@@ -1,5 +1,6 @@
 +++
 title = "Comment manager la genZ ?"
+description = "Ce qui change dans le management des jeunes générations et ce que cela implique pour une équipe agile."
 weight = 50
 +++
 

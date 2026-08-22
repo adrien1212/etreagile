@@ -1,5 +1,6 @@
 +++
 title = "Équipe propriétaire du processus"
+description = "Rendre l'équipe propriétaire de son processus, à condition que le management lui en donne réellement la permission."
 weight = 70
 +++
 

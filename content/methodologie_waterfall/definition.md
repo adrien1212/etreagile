@@ -1,6 +1,6 @@
-
 +++
 title = "Waterfall est itératif"
+description = "En relisant le papier de Royce de 1970, on découvre que le Waterfall en tunnel qu'on lui attribue n'a jamais été ce qu'il décrivait."
 weight = 10
 +++
 

@@ -1,5 +1,6 @@
 +++
 title = "Une fumisterie"
+description = "Rien n'empêche de prendre le cadre de Scrum et le flux de Kanban, mais cela ne justifie pas de créer un troisième nom."
 weight = 1
 +++
 

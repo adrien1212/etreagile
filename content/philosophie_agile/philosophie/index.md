@@ -1,5 +1,6 @@
 +++
 title = "La philosophie Agile"
+description = "Agile est une philosophie, pas une méthodologie. La différence, et pourquoi elle compte pour une équipe."
 weight = 30
 +++
 

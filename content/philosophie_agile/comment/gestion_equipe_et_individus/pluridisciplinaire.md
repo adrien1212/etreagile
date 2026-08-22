@@ -1,5 +1,6 @@
 +++
 title = "Pluridisciplinaire"
+description = "Une équipe pluridisciplinaire réunit toutes les compétences pour livrer un incrément, et casse les silos UX, dev et QA."
 weight = 20
 +++
 

@@ -1,5 +1,6 @@
 +++
 title = "ISO"
+description = "Les normes ISO sont volontaires par défaut. Quand elles deviennent obligatoires, et lesquelles concernent l'informatique."
 weight = 40
 +++
 

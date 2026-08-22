@@ -1,5 +1,6 @@
 +++
 title = "État d'esprit"
+description = "Au-delà des pratiques, le craft porte un état d'esprit : développer son savoir-faire, son savoir-être et son professionnalisme."
 weight = 10
 +++
 

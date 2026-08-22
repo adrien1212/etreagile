@@ -1,5 +1,6 @@
 +++
 title = "Naissance de Scrum"
+description = "Comment Jeff Sutherland a abandonné les diagrammes de Gantt chez Easel et fait naître Scrum, raconté dans ses propres mots."
 weight = 5
 +++
 

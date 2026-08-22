@@ -1,5 +1,6 @@
 +++
 title="Introduction"
+description="Scrum ne se résume pas au schéma des rôles, artefacts et évènements : c'est aussi un guide, trois piliers et cinq valeurs."
 weight=1
 +++
 

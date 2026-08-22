@@ -1,5 +1,6 @@
 +++
 title = "MVP et pretotype"
+description = "MVP et pretotype : deux façons de valider une idée de produit avant de la construire, souvent confondues."
 weight = 80
 +++
 

@@ -1,5 +1,6 @@
 +++
 title = "Outlines"
+description = "Les Outlines décrivent les projets IT dans un langage métier, pour décider lesquels lancer et avec quelle valeur attendue."
 weight = 50
 +++
 

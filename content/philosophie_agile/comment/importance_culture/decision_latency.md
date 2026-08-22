@@ -1,5 +1,6 @@
 +++
 title = "Decision Latency"
+description = "Le temps entre le moment où une décision doit être prise et celui où elle l'est vraiment, et son effet sur la réussite d'un projet."
 weight = 20
 +++
 

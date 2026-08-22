@@ -1,5 +1,6 @@
 +++
 title = "Innovateurs et Early-Adopters"
+description = "Plutôt que convaincre tout le monde, s'appuyer sur les innovateurs et early adopters pour diffuser une pratique dans l'organisation."
 weight = 20
 +++
 

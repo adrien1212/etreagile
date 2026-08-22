@@ -1,5 +1,6 @@
 +++
 title = "Frameworks précèdent Agile"
+description = "Scrum et XP existaient avant le Manifeste Agile de 2001. Ce que le mouvement agile doit aux frameworks qui l'ont précédé."
 weight = 20
 +++
 

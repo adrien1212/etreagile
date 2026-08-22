@@ -1,5 +1,6 @@
 +++
 title = "Produire de la valeur"
+description = "Qu'est-ce que la valeur dans un projet logiciel, et comment une équipe peut en discuter concrètement avec ses utilisateurs."
 weight = 65
 +++
 

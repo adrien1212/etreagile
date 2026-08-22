@@ -1,5 +1,6 @@
 +++
 title = "Vision"
+description = "Les Visions décrivent la structure de l'organisation et son évolution souhaitée, en lien avec les niveaux de planification."
 weight = 30
 +++
 

@@ -1,5 +1,6 @@
 +++
 title = "Le Manifeste Agile"
+description = "Les quatre valeurs et les douze principes du Manifeste Agile de 2001, commentés un à un."
 weight = 20
 +++
 

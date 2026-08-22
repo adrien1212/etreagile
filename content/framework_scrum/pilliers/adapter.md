@@ -1,5 +1,6 @@
 +++
 title = "Adapter"
+description = "L'adaptation prolonge l'inspection : ajuster le produit et l'organisation de l'équipe à partir de ce qu'on a appris."
 weight = 3
 +++
 

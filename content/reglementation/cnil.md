@@ -1,5 +1,6 @@
 +++
 title = "CNIL"
+description = "La CNIL, autorité indépendante de protection des données : ses missions d'accompagnement, de contrôle et de sanction."
 weight = 20
 +++
 

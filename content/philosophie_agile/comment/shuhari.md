@@ -1,5 +1,6 @@
 +++
 title = "Shu Ha Ri"
+description = "Shu Ha Ri : reproduire, se détacher, puis s'affranchir. Les trois étapes de l'apprentissage appliquées à l'agilité."
 weight = 5
 +++
 

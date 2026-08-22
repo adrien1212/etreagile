@@ -1,5 +1,6 @@
 +++
 title = "Déclaration des droits"
+description = "La déclaration des droits du client et du développeur, formulée par Kent Beck pour rééquilibrer la relation entre les deux."
 weight = 30
 +++
 

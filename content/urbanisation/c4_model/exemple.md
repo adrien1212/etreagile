@@ -1,5 +1,6 @@
 +++
 title = "Exemple concret"
+description = "Un cas réel de diagrammes C4, tiré d'un talk sur le versioning des APIs REST : container puis component diagram."
 weight = 20
 +++
 

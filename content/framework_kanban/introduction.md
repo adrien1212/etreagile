@@ -1,5 +1,6 @@
 +++
 title="Introduction"
+description="L'objectif de Kanban selon David Anderson : équilibrer la demande client et la capacité de travail de l'équipe."
 weight=10
 +++
 

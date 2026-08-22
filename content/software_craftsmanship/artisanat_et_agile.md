@@ -1,5 +1,6 @@
 +++
 title="Artisanat et Agile"
+description="Agile se concentre sur les personnes et les processus, le craft sur la technique. Les deux mouvements se complètent."
 weight=50
 +++
 

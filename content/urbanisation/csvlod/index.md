@@ -1,5 +1,6 @@
 +++
 title = "Modèle CSVLOD"
+description = "Le modèle CSVLOD de Kotusev décrit l'architecture d'entreprise par les artefacts réellement produits plutôt que par des couches abstraites."
 weight = 10
 +++
 

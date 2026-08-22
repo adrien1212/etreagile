@@ -1,5 +1,6 @@
 +++
 title="Manifeste"
+description="Les quatre engagements du Manifeste Software Craftsmanship, qui prolongent ceux du Manifeste Agile."
 weight=1
 +++
 

@@ -1,5 +1,6 @@
 +++
 title = "Vision produit"
+description = "La vision produit décrit un état futur assez clairement pour que les autres le voient. Le pourquoi avant le quoi."
 weight = 10
 +++
 

@@ -1,5 +1,6 @@
 +++
 title = "Les 5 niveaux de planification"
+description = "Vision, roadmap, plan de release, plan d'itération et réajustement quotidien : les cinq niveaux de planification agile."
 weight = 20
 +++
 

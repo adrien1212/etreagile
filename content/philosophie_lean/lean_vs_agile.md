@@ -1,6 +1,6 @@
-
 +++
 title = "Lean VS Agile"
+description = "Lean et Agile ne s'opposent pas : deux variantes d'un même mouvement, avec des moyens différents pour livrer ce dont le client a besoin."
 weight = 40
 +++
 

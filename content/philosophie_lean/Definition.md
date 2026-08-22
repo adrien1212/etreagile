@@ -1,6 +1,6 @@
-
 +++
 title = "Définition"
+description = "Ce qu'est le Lean : une approche de la satisfaction client par l'élimination du gaspillage et la résolution de problèmes."
 weight = 10
 +++
 

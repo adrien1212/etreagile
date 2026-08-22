@@ -1,5 +1,6 @@
 +++
 title = "Négociation et compromis"
+description = "La collaboration avec le client plutôt que la négociation contractuelle : ce que cela change dans la pratique."
 weight = 100
 +++
 

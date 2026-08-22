@@ -1,5 +1,6 @@
 +++
 title="5 propriétés"
+description="Commencer avec l'existant, changer progressivement, respecter les rôles en place : les propriétés qui font de Kanban une gestion du changement."
 weight=20
 +++
 

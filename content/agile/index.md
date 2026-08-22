@@ -1,5 +1,6 @@
 +++
 title = "Agile"
+description = "Ce que recouvre vraiment l'agilité au quotidien : cycles de vie, management visuel, produit contre projet, outcome contre output."
 weight = 60
 comments = true
 +++

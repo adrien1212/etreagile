@@ -1,5 +1,6 @@
 +++
 title="Sprint Backlog"
+description="Le Sprint Backlog répond au pourquoi, au quoi et au comment du sprint. Comment l'équipe le construit en Sprint Planning."
 weight=2
 +++
 

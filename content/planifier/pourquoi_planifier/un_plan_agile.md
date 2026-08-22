@@ -1,5 +1,6 @@
 +++
 title = "Un plan Agile ?"
+description = "La différence entre le plan (un document) et la planification (une activité), et ce qui rend un plan réellement agile."
 weight = 20
 +++
 

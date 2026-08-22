@@ -1,5 +1,6 @@
 +++
 title="Software Craftsmanship"
+description="Le mouvement Software Craftsmanship, né en 2008 pour remettre l'excellence technique au centre du développement logiciel."
 weight=120
 comments=true
 +++

@@ -1,5 +1,6 @@
 +++
 title = "La première estimation"
+description = "Comment donner ses premiers points quand l'équipe n'a aucune référence : choisir des stories étalons couvrant la stack technique."
 weight = 30
 +++
 

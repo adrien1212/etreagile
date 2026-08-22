@@ -1,5 +1,6 @@
 +++
 title = "Caractéristiques bonne équipe"
+description = "Transcendante, autonome, pluridisciplinaire : les caractéristiques des bonnes équipes décrites par Takeuchi et Nonaka."
 weight = 40
 +++
 

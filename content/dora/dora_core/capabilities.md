@@ -1,5 +1,6 @@
 +++
 title = "Capabilities (Capacités)"
+description = "Le catalogue des capacités DORA : les pratiques techniques, culturelles et de pilotage qui améliorent la performance de livraison."
 weight = 20
 +++
 

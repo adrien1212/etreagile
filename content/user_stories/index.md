@@ -1,5 +1,6 @@
 +++
 title = "Récits utilisateur"
+description = "Les user stories : pourquoi les écrire, comment les formuler avec INVEST et comment les faire émerger en User Story Mapping."
 weight = 130
 comments = true
 +++

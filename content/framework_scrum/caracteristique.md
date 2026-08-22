@@ -1,5 +1,6 @@
 +++
 title="Caractéristiques d'une équipe Scrum"
+description="Une équipe Scrum est pluridisciplinaire et autogérée. Ce que le Scrum Guide 2020 a changé en passant d'auto-organisée à autogérée."
 weight= 33
 +++
 

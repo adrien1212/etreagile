@@ -1,5 +1,6 @@
 +++
 title="Scrum par Jeff Sutherland"
+description="Notes de lecture de Scrum: The Art of Doing Twice the Work in Half the Time, de Jeff Sutherland."
 weight=90
 +++
 

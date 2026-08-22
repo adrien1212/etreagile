@@ -1,5 +1,6 @@
 +++
 title="Sprint Goal"
+description="Le Sprint Goal est l'objectif unique du sprint. Pourquoi le définir avant de sélectionner les éléments du backlog."
 weight=2
 +++
 

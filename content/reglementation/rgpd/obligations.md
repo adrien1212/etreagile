@@ -1,5 +1,6 @@
 +++
 title = "Obligation du RGPD"
+description = "Registre des traitements, analyse d'impact, DPO, notification de violation : les obligations concrètes posées par le RGPD."
 weight = 11
 +++
 

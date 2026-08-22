@@ -1,5 +1,6 @@
 +++
 title = "Scrum: The Art of Doing Twice"
+description = "Notes de lecture de Scrum: The Art of Doing Twice the Work in Half the Time : le pourquoi derrière le framework."
 weight = 10
 +++
 

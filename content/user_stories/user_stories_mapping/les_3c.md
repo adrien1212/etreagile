@@ -1,5 +1,6 @@
 +++
 title = "Les 3Cs"
+description = "Card, Conversation, Confirmation : les trois C de Ron Jeffries, et pourquoi la carte doit rester volontairement pauvre en détails."
 weight = 20
 +++
 

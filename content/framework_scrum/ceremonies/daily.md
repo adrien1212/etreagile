@@ -1,5 +1,6 @@
 +++
 title="Daily"
+description="Le Daily Scrum, quinze minutes pour inspecter la progression vers le Sprint Goal et ajuster le plan de la journée."
 weight=82
 +++
 

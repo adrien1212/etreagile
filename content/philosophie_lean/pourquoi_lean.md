@@ -1,6 +1,6 @@
-
 +++
 title = "Pourquoi le Lean ?"
+description = "Réduire le gaspillage, limiter les surcoûts liés à la non-qualité : les raisons de s'intéresser au Lean en développement logiciel."
 weight = 20
 +++
 

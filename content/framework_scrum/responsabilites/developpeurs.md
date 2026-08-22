@@ -1,5 +1,6 @@
 +++
 title="Développeurs"
+description="Les Developers construisent le Sprint Backlog, respectent la Definition of Done et ajustent leur plan chaque jour."
 weight=10
 +++
 

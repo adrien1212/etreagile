@@ -1,5 +1,6 @@
 +++
 title = "DevOps Handbook"
+description = "Notes de lecture du DevOps Handbook autour des Three Ways : flux rapide, boucles de feedback et apprentissage continu."
 weight = 25
 +++
 

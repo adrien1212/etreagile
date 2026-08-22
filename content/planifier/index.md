@@ -1,5 +1,6 @@
 +++
 title = "Planification et Agile"
+description = "Planification et estimation en contexte agile, à partir d'Agile Estimating and Planning de Mike Cohn."
 weight = 50
 comments = true
 +++

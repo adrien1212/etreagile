@@ -1,5 +1,6 @@
 +++
 title = "Pourquoi des US ?"
+description = "Le vrai objectif d'une user story est la compréhension partagée, pas le document. Ce qu'un cahier des charges ne remplace pas."
 weight = 10
 +++
 

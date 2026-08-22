@@ -1,5 +1,6 @@
 +++
 title = "Conway's Law"
+description = "La loi de Conway : l'architecture d'un système reproduit la structure de communication de l'organisation qui l'a conçu."
 weight = 40
 +++
 

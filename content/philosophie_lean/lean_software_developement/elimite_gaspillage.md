@@ -1,5 +1,6 @@
 +++
 title = "Éliminer le gaspillage"
+description = "Les sept catégories de gaspillage dans le développement logiciel identifiées par les Poppendieck, du travail partiellement terminé aux attentes."
 weight = 10
 +++
 

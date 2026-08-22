@@ -1,5 +1,6 @@
 +++
 title = "Objectifs planification"
+description = "Réduire les risques, réduire l'incertitude et permettre les arbitrages : les trois objectifs d'une planification agile."
 weight = 10
 +++
 

@@ -1,5 +1,6 @@
 +++
 title = "Framework Scrum"
+description = "Scrum expliqué à partir du Scrum Guide : ses trois piliers, ses cinq valeurs, ses responsabilités, ses artefacts et ses cérémonies."
 weight = 80
 comments = true
 +++

@@ -1,5 +1,6 @@
 +++
 title = "Dimension Humaine"
+description = "Le facteur humain est le vrai différenciateur de l'agilité : collaboration, dynamique d'équipe et objectif partagé."
 weight = 30
 +++
 

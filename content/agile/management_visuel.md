@@ -1,5 +1,6 @@
 +++
 title = "Management visuel"
+description = "Rendre le travail visible avec un tableau Kanban ou un board de sprint, pour repérer les files d'attente et les goulots d'étranglement."
 weight = 20
 +++
 

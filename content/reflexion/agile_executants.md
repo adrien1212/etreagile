@@ -1,5 +1,6 @@
 +++
 title="Agile qu'avec exécutants ?"
+description="Peut-on être agile avec une équipe composée d'exécutants ? Le passage du commandement par ordre au commandement par objectif."
 weight=40
 +++
 

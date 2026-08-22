@@ -1,5 +1,6 @@
 +++
 title = "Just-in-time"
+description = "Le juste-à-temps : produire ce qui est nécessaire, au moment où c'est nécessaire, et dans la quantité nécessaire."
 weight = 20
 +++
 

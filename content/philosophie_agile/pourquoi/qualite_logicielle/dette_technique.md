@@ -1,5 +1,6 @@
 +++
 title = "Dette technique"
+description = "La dette technique depuis Ward Cunningham en 1992 : ses trois types et le quadrant de Martin Fowler."
 weight = 20
 +++
 

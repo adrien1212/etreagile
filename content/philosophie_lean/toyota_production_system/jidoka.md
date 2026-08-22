@@ -1,5 +1,6 @@
 +++
 title = "Jidoka"
+description = "Le Jidoka consiste à arrêter le travail dès qu'un problème apparaît, pour construire la qualité dans le produit plutôt que la contrôler après."
 weight = 10
 +++
 

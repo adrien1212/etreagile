@@ -1,5 +1,6 @@
 +++
 title = "Introduction"
+description = "Passer du Plan-Plan-Plan-Do au Plan-Do-Adapt : ce que l'incertitude d'un projet logiciel impose à la planification."
 weight = 1
 +++
 

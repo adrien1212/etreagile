@@ -1,5 +1,6 @@
 +++
 title = "Pas de documentation ?"
+description = "Agile ne dit pas de supprimer la documentation. Ce que la valeur du Manifeste visait réellement à éviter."
 weight = 60
 +++
 

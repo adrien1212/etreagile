@@ -1,5 +1,6 @@
 +++
 title = "Importance de la culture"
+description = "Ce qu'Accelerate et la typologie de Westrum disent du lien entre culture organisationnelle et performance des équipes."
 weight = 25
 +++
 

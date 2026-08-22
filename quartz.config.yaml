@@ -248,7 +248,6 @@ plugins:
     options:
       includeAll: false
       includedProperties:
-        - description
         - tags
         - aliases
       excludedProperties: []
@@ -273,7 +272,11 @@ layout:
         left: []
         right: []
     content: {}
-    folder: {}
+    folder:
+      exclude:
+        - reader-mode
+      positions:
+        right: []
     tag:
       exclude:
         - reader-mode

@@ -1,5 +1,6 @@
 +++
 title = "La qualité vaut-elle le coût ?"
+description = "Qualité interne et qualité externe : pourquoi la qualité interne réduit le coût des changements futurs plutôt que de le gonfler."
 weight = 40
 +++
 

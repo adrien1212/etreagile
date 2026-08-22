@@ -1,6 +1,7 @@
 +++
 linkTitle = "Comment devenir Agile ?"
 title = "Comment créer une équipe Agile ?"
+description = "Devenir agile commence par le mindset, puis les principes, et seulement ensuite les frameworks et les pratiques."
 weight = 20
 +++
 

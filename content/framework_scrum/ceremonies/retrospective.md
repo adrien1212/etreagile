@@ -1,5 +1,6 @@
 +++
 title="Retrospective"
+description="La rétrospective sert à inspecter la façon de travailler de l'équipe et à en tirer un plan d'amélioration pour le sprint suivant."
 weight=83
 +++
 

@@ -1,5 +1,6 @@
 +++
 title = "Le concept clé"
+description = "À la racine de Scrum, une idée simple : vérifier régulièrement où l'on va. C'est le cycle inspecter et adapter."
 weight = 20
 +++
 

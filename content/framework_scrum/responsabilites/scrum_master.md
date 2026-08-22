@@ -1,5 +1,6 @@
 +++
 title="Scrum Master"
+description="Le Scrum Master est redevable de l'efficacité de l'équipe : il lève les obstacles, protège le sprint et coache sur Scrum."
 weight=20
 +++
 

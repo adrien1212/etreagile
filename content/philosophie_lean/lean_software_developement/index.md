@@ -1,6 +1,6 @@
-
 +++
 title = "Lean Software Development"
+description = "Le Lean Software Development de Mary et Tom Poppendieck, et ses sept principes appliqués au développement logiciel."
 weight = 30
 +++
 

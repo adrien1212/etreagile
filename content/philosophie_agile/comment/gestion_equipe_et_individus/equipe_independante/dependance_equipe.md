@@ -1,5 +1,6 @@
 +++
 title = "Gérer les dépendances"
+description = "Trois catégories de dépendances entre équipes — connaissance, tâche et ressource — et quoi faire de chacune."
 weight = 50
 +++
 

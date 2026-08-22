@@ -1,5 +1,6 @@
 +++
 title = "Développeurs VS Executants"
+description = "Depuis le Scrum Guide 2020, on parle de Developers et non plus d'équipe de développement. La différence entre développeur et exécutant."
 weight = 20
 +++
 

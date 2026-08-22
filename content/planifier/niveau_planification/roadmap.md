@@ -1,5 +1,6 @@
 +++
 title = "Roadmap"
+description = "Une roadmap est une stratégie produit à long terme, pas une série de jalons à suivre. La différence avec un planning."
 weight = 20
 +++
 

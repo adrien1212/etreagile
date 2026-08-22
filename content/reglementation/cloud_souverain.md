@@ -1,5 +1,6 @@
 +++
 title = "Cloud souverain"
+description = "Le Cloud Act américain s'applique aux données hébergées par des entreprises américaines, même en Europe. Ce que cela pose vis-à-vis du RGPD."
 weight = 50
 +++
 

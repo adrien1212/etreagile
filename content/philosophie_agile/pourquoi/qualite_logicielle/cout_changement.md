@@ -1,5 +1,6 @@
 +++
 title = "Coût du changement"
+description = "La courbe du coût du changement justifie le tout planifier en amont. Ce qui se passe quand on aplatit cette courbe."
 weight = 30
 +++
 

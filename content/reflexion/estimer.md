@@ -1,5 +1,6 @@
 +++
 title="A-t-on besoin d'estimer ?"
+description="Pourquoi estime-t-on, et le débat No Estimates : ce que l'estimation apporte vraiment aux parties prenantes en contexte agile."
 weight=10
 +++
 

@@ -1,5 +1,6 @@
 +++
 title = "Doit-on standardiser ?"
+description = "Standardiser les pratiques quand l'organisation grandit : les bénéfices réels et le moment où cela devient un frein."
 weight = 70
 +++
 

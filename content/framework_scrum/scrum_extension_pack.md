@@ -1,5 +1,6 @@
 +++
 title = "Scrum Extension Pack"
+description = "Le Scrum Guide Expansion Pack ne remplace pas le Scrum Guide, il le complète sur le product thinking et l'émergence."
 weight = 90
 +++
 

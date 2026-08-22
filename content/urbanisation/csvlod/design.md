@@ -1,5 +1,6 @@
 +++
 title = "Design"
+description = "Les Designs sont les conceptions techniques détaillées des projets validés : APIs, schémas de données, sécurité, infrastructure."
 weight = 60
 +++
 

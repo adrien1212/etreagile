@@ -1,5 +1,6 @@
 +++
 title = "Psychological Safety"
+description = "La sécurité psychologique, premier facteur de performance des équipes selon Google : définition et effets sur la communication."
 weight = 10
 +++
 

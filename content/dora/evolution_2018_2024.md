@@ -1,5 +1,6 @@
 +++
 title = "Evolution 2018-2024"
+description = "Ce qui a changé dans le framework DORA entre le livre Accelerate de 2018 et le modèle 2024 : métriques renommées, ajout de la fiabilité."
 weight = 20
 +++
 

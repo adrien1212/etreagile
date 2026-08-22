@@ -1,5 +1,6 @@
 +++
 title = "Agile"
+description = "Cours de gestion de projet informatique consacré à l'agilité : son histoire, ses frameworks (Scrum, Kanban, XP), sa philosophie et ses limites."
 weight = 0
 comments = true
 +++

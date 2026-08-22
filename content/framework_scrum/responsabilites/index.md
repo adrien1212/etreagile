@@ -1,5 +1,6 @@
 +++
 title="Responsabilités Scrum"
+description="Depuis 2020, Scrum ne parle plus de rôles mais de responsabilités (accountabilities). Ce que la nuance change."
 weight=50
 +++
 

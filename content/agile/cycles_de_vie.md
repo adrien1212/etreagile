@@ -1,5 +1,6 @@
 +++
 title = "Cycles de vie"
+description = "Les quatre cycles de vie d'un projet — prédictif, itératif, incrémental et agile — avec leurs schémas et ce qui les distingue."
 weight = 10
 +++
 

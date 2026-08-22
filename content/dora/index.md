@@ -1,5 +1,6 @@
 +++
 title = "DORA"
+description = "DORA étudie scientifiquement les pratiques DevOps à grande échelle. Origine de l'organisation, du rapport Accelerate et de ses conclusions."
 weight = 140
 +++
 

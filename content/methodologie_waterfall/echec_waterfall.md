@@ -1,5 +1,6 @@
 +++
 title = "Pourquoi Waterfall échoue ?"
+description = "Quatre hypothèses expliquent pourquoi le Waterfall tel qu'il est appliqué mène à l'échec des projets informatiques."
 weight = 15
 +++
 

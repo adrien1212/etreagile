@@ -1,5 +1,6 @@
 +++
 title = "Comment planifier ?"
+description = "La règle d'or de l'estimation agile : estimer la taille et en déduire la durée grâce à la vélocité, plutôt qu'estimer directement le temps."
 weight = 30
 +++
 

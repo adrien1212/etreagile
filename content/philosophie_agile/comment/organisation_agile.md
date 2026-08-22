@@ -1,5 +1,6 @@
 +++
 title = "C'est le rôle du CEO"
+description = "Une transformation agile limitée à la R&D ne tient pas : l'agilité engage toute l'organisation, direction comprise."
 weight = 20
 +++
 

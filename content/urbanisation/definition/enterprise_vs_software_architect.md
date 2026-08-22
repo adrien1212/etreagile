@@ -1,5 +1,6 @@
 +++
 title = "Enterprise VS Software Archi"
+description = "Architecte d'entreprise et architecte logiciel : deux métiers distincts, et pourquoi la dette architecturale n'est pas la dette technique."
 weight = 30
 +++
 

@@ -1,5 +1,6 @@
 +++
 title = "Les acteurs"
+description = "Personne concernée, responsable du traitement, sous-traitant, DPO : qui fait quoi dans le RGPD."
 weight = 30
 +++
 

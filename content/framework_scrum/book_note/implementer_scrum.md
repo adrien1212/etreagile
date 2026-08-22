@@ -1,5 +1,6 @@
 +++
 title = "How to begin ?"
+description = "Les étapes concrètes pour démarrer un projet Scrum, résumées depuis l'annexe du livre Implementing Scrum."
 weight = 10
 +++
 

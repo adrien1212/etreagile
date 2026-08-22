@@ -1,5 +1,6 @@
 +++
 title = "Framework Kanban"
+description = "Kanban mise sur l'optimisation continue du flux de travail là où Scrum s'appuie sur des itérations de durée fixe."
 weight = 90
 comments = true
 +++

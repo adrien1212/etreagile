@@ -1,5 +1,6 @@
 +++
 title = "Re-estimer une US ?"
+description = "Faut-il ré-estimer une story non terminée à la fin d'un sprint ? Les arguments pour et contre."
 weight = 40
 +++
 

@@ -1,5 +1,6 @@
 +++
 title = "Plan de Release"
+description = "Le plan de release couvre plusieurs itérations et répond à la question de ce qui sera livré, et pour quelle date."
 weight = 30
 +++
 

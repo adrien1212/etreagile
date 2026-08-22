@@ -1,5 +1,6 @@
 +++
 title = "Pourquoi planifier ?"
+description = "Planifier sert à guider les investissements, savoir qui sera disponible et répondre à la question de ce qu'il faut construire."
 weight = 2
 +++
 

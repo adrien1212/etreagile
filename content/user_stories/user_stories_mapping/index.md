@@ -1,5 +1,6 @@
 +++
 title = "User Story Mapping"
+description = "Le User Story Mapping est un atelier visuel pour comprendre le travail à faire et prioriser ce qui apporte le plus de valeur."
 weight = 20
 +++
 

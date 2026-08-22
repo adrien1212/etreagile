@@ -1,5 +1,6 @@
 +++
 title = "Silo organisationnel"
+description = "Ce qu'est un silo organisationnel, les dépendances qu'il crée, et pourquoi les casser tous n'est pas la bonne réponse."
 weight = 20
 +++
 

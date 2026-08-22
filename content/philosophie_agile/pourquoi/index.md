@@ -1,5 +1,6 @@
 +++
 title = "Pourquoi devenir Agile ?"
+description = "Encaisser l'incertitude, livrer de la qualité, impliquer le client : les principales raisons de passer à l'agilité, résumées."
 weight = 10
 +++
 

@@ -1,5 +1,6 @@
 +++
 title = "SAFe"
+description = "SAFe, le Scaled Agile Framework, et ce que lui reprochent plusieurs figures reconnues de la communauté agile."
 weight = 40
 +++
 

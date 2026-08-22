@@ -1,5 +1,6 @@
 +++
 title = "C4 Model"
+description = "Le C4 Model représente une architecture logicielle à quatre niveaux de zoom, pour s'adresser à des publics différents."
 weight = 60
 +++
 

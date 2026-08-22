@@ -1,5 +1,6 @@
 +++
 title="Product Owner"
+description="Le Product Owner porte la vision, maximise la valeur du produit et tient à jour le Product Backlog avec les parties prenantes."
 weight=30
 +++
 

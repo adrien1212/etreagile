@@ -1,5 +1,6 @@
 +++
 title = "Scrum vs Kanban"
+description = "Tableau comparatif de Scrum et Kanban : périmètre, cadence des évènements, gestion des urgences et rôles."
 weight = 99
 +++
 

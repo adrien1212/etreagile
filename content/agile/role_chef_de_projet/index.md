@@ -1,5 +1,6 @@
 +++
 title = "Le rôle du Chef de Projet (PM)"
+description = "Chef de projet et Scrum Master ne sont pas le même rôle : comparaison de leurs responsabilités respectives."
 weight = 70
 +++
 

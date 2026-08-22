@@ -1,5 +1,6 @@
 +++
 title = "Équipe indépendante"
+description = "Pourquoi l'autonomie d'une équipe compte : moins de synchronisation, moins de files d'attente, un lead time plus court."
 weight = 30
 +++
 

@@ -1,5 +1,6 @@
 +++
 title = "Croix de Fer et Triangle de fer"
+description = "Le triangle de fer (périmètre, coût, temps) et la croix de fer : trois caractéristiques sur quatre, jamais les quatre."
 weight = 40
 +++
 

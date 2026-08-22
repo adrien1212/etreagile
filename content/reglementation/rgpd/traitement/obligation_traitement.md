@@ -1,5 +1,6 @@
 +++
 title = "Obligation sur le traitement"
+description = "Licéité, transparence, finalité, proportionnalité, durée limitée et sécurité : les principes que tout traitement doit respecter."
 weight = 10
 +++
 

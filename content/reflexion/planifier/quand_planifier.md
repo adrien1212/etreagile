@@ -1,5 +1,6 @@
 +++
 title="Quand planifier ?"
+description="À quels moments du projet planifie-t-on ? Les cinq niveaux de planification agile, ou oignon de la planification."
 weight=30
 +++
 

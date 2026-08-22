@@ -1,5 +1,6 @@
 +++
 title="Sujets de réflexion"
+description="Sujets de réflexion sur l'agilité : estimation, planification, productivité, documentation, standardisation et critiques du mouvement."
 weight=999
 comments = true
 +++

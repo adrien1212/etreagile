@@ -1,5 +1,6 @@
 +++
 title="Introduction"
+description="Panorama des frameworks d'agilité à l'échelle : Scrum of Scrums, Nexus, LeSS, Scrum@Scale, SAFe et le modèle Spotify."
 weight=20
 +++
 

@@ -1,5 +1,6 @@
 +++
 title = "Causes d’échec du Craft"
+description = "Le craft comme fin en soi ou comme prétexte à la procrastination : les dérives qui font perdre de vue la livraison de valeur."
 weight = 30
 +++
 

@@ -1,5 +1,6 @@
 +++
 title = "Feature > Activités"
+description = "L'approche par fonctionnalité livre de la valeur en continu, là où l'approche par activité enchaîne design, codage puis tests."
 weight = 8
 +++
 

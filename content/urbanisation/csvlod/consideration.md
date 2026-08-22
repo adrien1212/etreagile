@@ -1,5 +1,6 @@
 +++
 title = "Considération"
+description = "Les Considerations : les règles, principes et politiques métier qui orientent les décisions IT sans dire encore comment faire."
 weight = 10
 +++
 

@@ -1,5 +1,6 @@
 +++
 title = "Orientée équipe"
+description = "Pourquoi suivre la performance de l'équipe plutôt que celle des individus, même quand les écarts individuels sont énormes."
 weight = 10
 +++
 

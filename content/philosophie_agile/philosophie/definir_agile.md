@@ -1,5 +1,6 @@
 +++
 title = "Que signifie Agile ?"
+description = "Agile n'est ni Scrum ni Kanban : c'est une déclaration de quatre valeurs. Ce que chacune recouvre."
 weight = 10
 +++
 

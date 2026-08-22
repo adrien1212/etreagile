@@ -1,5 +1,6 @@
 +++
 title = "Pratiques Agile"
+description = "Une pratique agile est une expérimentation, pas une règle. Panorama des pratiques et de leur place dans une démarche agile."
 weight = 70
 +++
 

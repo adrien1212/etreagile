@@ -1,5 +1,6 @@
 +++
 title = "Team Topologies"
+description = "Notes de lecture de Team Topologies, sur les quatre types d'équipes et les trois modes d'interaction."
 weight = 30
 +++
 

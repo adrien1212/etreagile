@@ -1,5 +1,6 @@
 +++
 title = "Transparence"
+description = "La transparence en Scrum : rien de caché, des informations claires accessibles à toute l'équipe et aux parties prenantes."
 weight = 1
 +++
 

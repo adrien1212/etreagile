@@ -1,5 +1,6 @@
 +++
 title="XP influences"
+description="XP fait moins parler de lui que Scrum, mais ses pratiques irriguent le développement moderne et le DevOps."
 weight=99
 +++
 

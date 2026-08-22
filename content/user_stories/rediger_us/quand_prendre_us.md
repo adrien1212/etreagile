@@ -1,5 +1,6 @@
 +++
 title = "Quand prendre une US ?"
+description = "Une story est prête quand elle satisfait INVEST et dispose d'une Definition of Done. Comment la sélectionner en Sprint Planning."
 weight = 40
 +++
 

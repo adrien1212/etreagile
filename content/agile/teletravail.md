@@ -1,5 +1,6 @@
 +++
 title = "Télétravail"
+description = "Les problèmes du télétravail en équipe agile — moins d'interactions, communication dégradée — et les solutions proposées par la recherche."
 weight = 90
 +++
 

@@ -1,5 +1,6 @@
 +++
 title = "Implication client"
+description = "Impliquer le client au quotidien pour vérifier que le produit répond à ses attentes et limiter le coût des changements de direction."
 weight = 50
 +++
 

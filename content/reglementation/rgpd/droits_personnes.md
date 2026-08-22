@@ -1,5 +1,6 @@
 +++
 title = "Les Droits des Personnes"
+description = "Accès, rectification, effacement, opposition, portabilité : les droits des personnes sur leurs données et les délais de réponse."
 weight = 20
 +++
 

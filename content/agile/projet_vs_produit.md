@@ -1,5 +1,6 @@
 +++
 title = "Projet VS Produit"
+description = "Un projet crée quelque chose de nouveau, un produit se livre régulièrement. Ce que le mode produit change dans l'organisation."
 weight = 7
 +++
 

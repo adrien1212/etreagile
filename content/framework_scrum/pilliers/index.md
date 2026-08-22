@@ -1,5 +1,6 @@
 +++
 title="3 Piliers"
+description="Scrum repose sur le contrôle empirique de processus, porté par trois piliers : transparence, inspection et adaptation."
 weight=20
 +++
 > [!ressource] Ressources

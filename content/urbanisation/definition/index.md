@@ -1,5 +1,6 @@
 +++
 title = "Définition"
+description = "L'architecture d'entreprise fait le lien entre architecture métier et architecture IT. Les deux conceptualisations qui dominent aujourd'hui."
 weight = 10
 +++
 

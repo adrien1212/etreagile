@@ -1,5 +1,6 @@
 +++
 title = "Book notes / Citations"
+description = "Citations et notes de lecture extraites de livres, d'articles et de forums, rassemblées au fil de la construction du cours."
 weight = 1000
 isBoldTitle = true
 +++

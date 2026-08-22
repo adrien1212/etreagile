@@ -1,5 +1,6 @@
 +++
 title="Increment"
+description="Un incrément est une version du produit finie et testée. Le travail ne devient incrément que s'il satisfait la Definition of Done."
 weight=3
 +++
 

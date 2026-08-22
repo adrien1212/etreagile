@@ -1,5 +1,6 @@
 +++
 title = "Pourquoi 3 responsabilités ?"
+description = "Pourquoi Jeff Sutherland a défini trois responsabilités, et ce que le Product Owner doit au Chief Engineer de Toyota."
 weight = 5
 +++
 

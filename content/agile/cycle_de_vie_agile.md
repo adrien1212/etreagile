@@ -1,5 +1,6 @@
 +++
 title = "Cycle de vie Agile"
+description = "Le cycle de vie Agile combine itératif et incrémental, soit sous forme d'itérations de durée fixe, soit sous forme de flux continu."
 weight = 11
 +++
 

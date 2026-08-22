@@ -1,5 +1,6 @@
 +++
 title = "Valeurs, Principes et Pratiques"
+description = "Les valeurs, principes et pratiques de XP tels que Kent Beck les articule dans Extreme Programming Explained."
 weight = 15
 +++
 

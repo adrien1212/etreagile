@@ -1,5 +1,6 @@
 +++
 title="Scrum Artefacs Engagement"
+description="Chaque artefact Scrum porte un engagement : Product Goal, Sprint Goal et Definition of Done."
 weight=70
 +++
 
