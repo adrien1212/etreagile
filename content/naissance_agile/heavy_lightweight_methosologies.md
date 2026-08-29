@@ -1,5 +1,5 @@
 +++
-title = "Lightweight et Agile"
+title = "D'où vient le terme 'Agile' ?"
 description = "Méthodologies heavyweight et lightweight : d'où vient l'opposition, et pourquoi le terme Agile a remplacé celui de Lightweight en 2001."
 weight = 20
 +++
@@ -18,7 +18,7 @@ Bien qu’aujourd'hui on évoque le terme Agile, lors de la rédaction du Manife
 > During 2000 a number of articles were written that referenced the category of “Light” or “Lightweight” processes. A number these articles referred to “Light methodologies, such as Extreme Programming, Adaptive Software Development, Crystal, and SCRUM”. [History: The Agile Manifesto](https://agilemanifesto.org/history.html)
 
 Et comme nous pouvons également lire dans *Extreme Programming Explained: Embrace Change - page 3*
-![Xp embrace the change](history/images/xp_embrace_the_change.png)
+![Xp embrace the change](images/xp_embrace_the_change.png)
 
 ## Apparition du terme Agile et rédaction du Manifeste
 > So Martin and I met in the fall of 2000 at a coffee shop near the ThoughtWorks office where he worked. **I described to him my idea to get all the competing lightweight process advocates together to form a manifesto of unity**. Martin made several recommendations for an invitation list, and we collaborated on writing the invitation. I sent the invitation letter later that day. The subject was **"Light Weight Process Summit"**.  
