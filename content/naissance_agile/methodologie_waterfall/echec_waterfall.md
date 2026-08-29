@@ -7,7 +7,7 @@ weight = 15
 > [!ressource] Ressources
 > - [Scaling Software Agility - C2 Why the Waterfall Model Doesn’t Work](https://res.infoq.com/articles/scaling-software-agility/en/resources/ch02.pdf)
 
-Dans la [section précédente]({{< relref "methodologie_waterfall/definition" >}}), nous avons vu que Waterfall a été mal interprété. Dans cette page nous expliquons pourquoi Waterfall semblait être une bonne solution et pourquoi son application (dû à sa mauvaise interprétation) amène à l'échec des projets informatiques
+Dans la [section précédente]({{< relref "naissance_agile/methodologie_waterfall/definition" >}}), nous avons vu que Waterfall a été mal interprété. Dans cette page nous expliquons pourquoi Waterfall semblait être une bonne solution et pourquoi son application (dû à sa mauvaise interprétation) amène à l'échec des projets informatiques
 
 > [!note] Note
 > Dans cette page lorsqu'on évoque Waterfall on parle de sa mauvaise interprétation, c'est-à-dire la figure 2 du [document de Royce](https://www.praxisframework.org/files/royce1970.pdf)
@@ -54,4 +54,4 @@ Le livre *The Lean Tech Manifesto* souligne un autre point pertinent
 > This misconception of waterfall causes a lot of waste, with different **teams trying to fully describe the target software product three times**: in the detailed specifications, in the code, and yet again in the testing suite used to check that the code matches the specifications.
 
 ## Comment Agile répond à ces problèmes ?
-Voir [Philosophie Agile - Réponse à des problèmes]({{< relref "philosophie_agile/pourquoi/problemes" >}})
+Voir [Philosophie Agile - Réponse à des problèmes]({{< relref "philosophie/philosophie_agile/pourquoi/problemes" >}})

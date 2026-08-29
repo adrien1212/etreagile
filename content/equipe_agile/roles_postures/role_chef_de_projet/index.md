@@ -1,0 +1,19 @@
++++
+title = "Le rôle du Chef de Projet (PM)"
+description = "Chef de projet et Scrum Master ne sont pas le même rôle : comparaison de leurs responsabilités respectives."
+weight = 30
++++
+
+> Project Manager (Chef de Projet) n'est pas un Scrum Master
+
+
+## Le rôle du Chef de Projet
+
+## PM vs SM
+![PM vs SM](pm_vs_sm.png)
+
+## Responsabilités
+- PM : s'assurer que le projet se déroule dans le périmètre, les coûts, délais et la qualité prévus
+- SM : est responsable de la bonne mise en oeuvre de la philosophie Agile et Scrum
+
+![responsabilités](responsabilites.png)
