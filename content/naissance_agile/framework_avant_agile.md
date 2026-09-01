@@ -21,4 +21,4 @@ Grâce à cette connaissance historique, nous pouvons dire que le mouvement Agil
 
 ![signataires_manifeste](signataires_manifeste.png)
 
-C'est dans cette diversité de cadres de travail (mais centrés sur des valeurs et principes communs) qu'est né le [Manifeste Agile]({{< relref "philosophie/philosophie_agile/doctrine/manifeste" >}}).
+C'est dans cette diversité de cadres de travail (mais centrés sur des valeurs et principes communs) qu'est né le [Manifeste Agile]({{< relref "philosophie/philosophie_agile/manifeste" >}}).

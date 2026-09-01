@@ -11,7 +11,7 @@ Pourquoi la planification d’un projet traditionnel ne marche pas ? Mike Cohn d
 
 ## 1. Planifier par activité au lieu des features
 > [!ressource]
-> Voir également [Feature > Activities]({{< relref "philosophie/cycles_de_vie/featured_over_activities" >}})
+> Voir également [Feature > Activities]({{< relref "philosophie/pourquoi_agile/produire_valeur/feature_over_activites" >}})
 
 > Activity-based planning distracts our attention from features, which are the true unit of customer value.
 

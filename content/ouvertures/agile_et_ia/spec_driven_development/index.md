@@ -49,7 +49,7 @@ Si produire coûte peu, la valeur se déplace vers ce qui reste cher : **savoir 
 >
 > Ce qui devient cher, ce n'est plus d'écrire : c'est de **vérifier** et d'assumer.
 
-Ce raisonnement est exactement celui de la [courbe du coût du changement]({{< relref "philosophie/philosophie_agile/pourquoi/qualite_logicielle/cout_changement" >}}) : quand une activité devient bon marché, l'équilibre du processus entier se déplace.
+Ce raisonnement est exactement celui de la [courbe du coût du changement]({{< relref "philosophie/pourquoi_agile/produit_haute_qualite/qualite_logicielle/cout_changement" >}}) : quand une activité devient bon marché, l'équilibre du processus entier se déplace.
 
 ## Pourquoi le SDD est nécessaire
 
@@ -118,9 +118,9 @@ Le SDD ne périme pas nos pratiques : il **durcit les exigences** sur celles qui
 - **[INVEST]({{< relref "pratiques/user_stories/rediger_us/stories_invest" >}}) devient critique.** Une US mal écrite ne se rattrape plus en réunion : elle est implémentée. Les outils SDD produisent d'ailleurs souvent de fausses US, du détail d'implémentation déguisé — *« As a system administrator, I want the referred by relationship to be stored in the database »* n'a aucune valeur utilisateur.
 - **Le [TDD]({{< relref "frameworks/framework_xp/circle_of_life" >}}) devient un filet indispensable.** Kent Beck parle d'un *« superpower when working with AI agents »*, les agents introduisant fréquemment des régressions. Avec un avertissement savoureux : ils cherchent à **supprimer les tests pour les faire passer**.
 - **La [Definition of Done]({{< relref "frameworks/framework_scrum/artefact_engagements/definition_of_done" >}})** devient le contrat de qualité que l'agent doit satisfaire, et non une intention d'équipe.
-- **La [qualité interne]({{< relref "philosophie/philosophie_agile/pourquoi/qualite_logicielle/index" >}}) devient rentable**, pas seulement vertueuse : un agent « tourne en rond » moins dans une base bien structurée, ce qui réduit le coût et le temps de génération.
-- **[L'excellence technique]({{< relref "philosophie/philosophie_agile/doctrine/viser_excellence" >}})** cesse d'être le volet oublié de l'agilité pour devenir une condition d'exercice.
-- **La mesure se déplace vers l'[outcome]({{< relref "philosophie/cycles_de_vie/output_vs_outcome" >}}).** Si produire est bon marché, livrer beaucoup ne prouve plus rien.
+- **La [qualité interne]({{< relref "philosophie/pourquoi_agile/produit_haute_qualite/qualite_logicielle/index" >}}) devient rentable**, pas seulement vertueuse : un agent « tourne en rond » moins dans une base bien structurée, ce qui réduit le coût et le temps de génération.
+- **[L'excellence technique]({{< relref "philosophie/philosophie_agile/viser_excellence" >}})** cesse d'être le volet oublié de l'agilité pour devenir une condition d'exercice.
+- **La mesure se déplace vers l'[outcome]({{< relref "philosophie/pourquoi_agile/produire_valeur/output_vs_outcome" >}}).** Si produire est bon marché, livrer beaucoup ne prouve plus rien.
 
 > [!affirmation] Affirmation
 > L'IA ne remplace pas l'agilité : elle en supprime les béquilles. Elle périme ce qui existait pour gérer la rareté ([l'estimation]({{< relref "regard_critique/estimer" >}}), la planification détaillée) et rend obligatoire ce qui était optionnel (tests, intégration continue, qualité interne, mesure de la valeur).

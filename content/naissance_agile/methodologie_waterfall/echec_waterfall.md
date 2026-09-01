@@ -54,4 +54,4 @@ Le livre *The Lean Tech Manifesto* souligne un autre point pertinent
 > This misconception of waterfall causes a lot of waste, with different **teams trying to fully describe the target software product three times**: in the detailed specifications, in the code, and yet again in the testing suite used to check that the code matches the specifications.
 
 ## Comment Agile répond à ces problèmes ?
-Voir [Philosophie Agile - Réponse à des problèmes]({{< relref "philosophie/philosophie_agile/pourquoi/problemes" >}})
+Voir [Philosophie Agile - Pourquoi devenir Agile ?]({{< relref "philosophie/pourquoi_agile/index" >}}), et en particulier [le contexte]({{< relref "philosophie/pourquoi_agile/contexte/index" >}}) dans lequel l'agilité s'est construite.

@@ -19,6 +19,37 @@ Le principe du Jidoka consiste à arrêter le travail dès qu’un problème sur
 
 ![jidoka principes](jidoka_principes.png)
 
+## Les deux outils du Jidoka
+
+Le principe « arrêter dès qu'un problème survient » suppose deux choses très concrètes : un moyen de signaler, et un moyen d'empêcher.
+
+### L'andon — signaler l'arrêt
+
+L'**andon** est le dispositif qui permet à n'importe quel opérateur d'alerter, voire d'arrêter la chaîne : à l'origine un cordon à tirer au-dessus du poste, aujourd'hui un bouton et un tableau lumineux.
+
+Ce qui compte n'est pas le dispositif, c'est ce qu'il implique : **la personne la moins gradée de l'atelier a le pouvoir d'arrêter la production de l'usine entière**, et on attend d'elle qu'elle le fasse. Tirer le cordon n'est pas un aveu d'échec, c'est le comportement demandé.
+
+> [!affirmation] Affirmation
+> L'andon est un test de culture avant d'être un outil. Dans une organisation où signaler un problème expose celui qui le signale, personne ne tire le cordon — et les défauts continuent d'avancer. Voir [Psychological Safety]({{< relref "equipe_agile/culture/psychological_safety" >}}) et la [typologie de Westrum]({{< relref "equipe_agile/culture/index" >}}).
+
+En développement logiciel, l'équivalent le plus direct est la **build cassée qui bloque la chaîne d'intégration** : tant qu'elle n'est pas réparée, plus personne ne livre, et la réparer devient la priorité de l'équipe.
+
+### Le poka-yoke — empêcher l'erreur
+
+Le **poka-yoke** (« détrompeur »), formalisé par **Shigeo Shingo**, consiste à concevoir les choses de telle sorte que l'erreur soit **impossible**, ou immédiatement visible. La prise USB-C qui s'insère dans les deux sens, la pompe à gasoil dont l'embout n'entre pas dans un réservoir à essence.
+
+Le raisonnement est important : plutôt que de demander aux gens d'être plus attentifs — ce qui ne marche jamais durablement — on change le dispositif pour que l'inattention ne produise plus de défaut.
+
+En logiciel, on en fait tous les jours sans le nommer :
+
+- un **typage strict** qui rend un état invalide non représentable ;
+- une **contrainte en base de données** plutôt qu'une vérification applicative qu'on oubliera ;
+- un **test automatisé** qui échoue avant que le défaut n'atteigne la production ;
+- un **linter** ou une revue obligatoire en *pipeline* plutôt qu'une consigne dans un document.
+
+> [!definition] Le lien avec la qualité
+> C'est exactement l'idée d'**intégrer la qualité dès la conception** plutôt que de la contrôler après coup — le troisième principe du [Lean Software Development]({{< relref "philosophie/philosophie_lean/lean_software_development/les_six_autres" >}}), et le fond du [Software Craftsmanship]({{< relref "pratiques/software_craftsmanship/index" >}}).
+
 ## Ne pas oublier le côté humain
 
 « Développer les gens avant de produire des pièces », c'est l'aphorisme du Lean Management. 

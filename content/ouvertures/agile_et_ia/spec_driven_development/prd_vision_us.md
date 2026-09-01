@@ -87,7 +87,7 @@ La même intention, correctement formulée :
 Le stockage en base n'a pas disparu : il est **redescendu au niveau où il appartient**, la tâche technique. Et la story exprime maintenant un bénéfice discutable, arbitrable, priorisable.
 
 > [!affirmation] Affirmation
-> Le test le plus rapide reste celui de la [valeur]({{< relref "philosophie/philosophie_agile/pourquoi/produire_valeur" >}}) : si personne ne peut expliquer à qui la story profite, ce n'est pas une story.
+> Le test le plus rapide reste celui de la [valeur]({{< relref "philosophie/pourquoi_agile/produire_valeur/index" >}}) : si personne ne peut expliquer à qui la story profite, ce n'est pas une story.
 
 Pourquoi les outils commettent-ils systématiquement cette erreur ? Parce qu'un LLM a lu des milliers de tickets Jira mal écrits, et qu'il reproduit la **forme** (`En tant que… je veux… afin de…`) sans la **fonction** (exprimer un bénéfice utilisateur). Le gabarit est trivial à imiter ; l'intention ne l'est pas.
 
@@ -101,7 +101,7 @@ Si l'agent écrit le code, découpe les tâches et rédige même des brouillons 
 - **Arbitrer la valeur.** Décider ce qu'on ne fera pas.
 - **Contester le plan.** Le découpage proposé par l'agent est plausible, pas pertinent. Le relire *contre* INVEST est une compétence, pas une formalité.
 - **Écrire la Confirmation.** Les critères d'acceptation sont le seul endroit où l'exigence de qualité devient exécutable.
-- **Mesurer l'[outcome]({{< relref "philosophie/cycles_de_vie/output_vs_outcome" >}}).** Si produire est bon marché, livrer beaucoup ne prouve plus rien.
+- **Mesurer l'[outcome]({{< relref "philosophie/pourquoi_agile/produire_valeur/output_vs_outcome" >}}).** Si produire est bon marché, livrer beaucoup ne prouve plus rien.
 
 > [!affirmation] Affirmation
 > Nous n'écrivions pas les spécifications parce que la conversation suffisait entre humains. Nous devons les écrire maintenant, non parce que l'agilité avait tort, mais parce qu'un des participants ne sait pas écouter.

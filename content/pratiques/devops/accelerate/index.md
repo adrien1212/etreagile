@@ -185,7 +185,7 @@ Et ce leadership va impacter les équipes techniques et l'adaptation du Lean
 ### Investir dans son équipe
 - Budget dédié à la formation
 - Conférences techniques
-- Travailler sur la [dette technique]({{< relref "philosophie/philosophie_agile/pourquoi/qualite_logicielle/dette_technique" >}}) (*[yak day](https://phinze.com/writing/useful-tech-terms)*)
+- Travailler sur la [dette technique]({{< relref "philosophie/pourquoi_agile/produit_haute_qualite/qualite_logicielle/dette_technique" >}}) (*[yak day](https://phinze.com/writing/useful-tech-terms)*)
 - Dédié du temps pour les expérimentations
 
 ### Tips pour améliorer la culture

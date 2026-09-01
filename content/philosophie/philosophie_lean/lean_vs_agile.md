@@ -5,6 +5,7 @@ weight = 40
 +++
 
 > [!ressource] Ressources
+> - [Agile Versus Lean - Martin Fowler](https://martinfowler.com/bliki/AgileVersusLean.html)
 > - [The Difference between Lean and Agile Software Development](https://www.leanessays.com/2015/06/lean-software-development-history.html)
 > - [LEAN vs AGILE : col bleu vs col blanc ? - Scrum Life](https://youtu.be/YTTiWZiUnjQ)
 > - [Méthode Agile VS Lean - Vraiment concurrents ? ](https://youtu.be/DO_WInLIcdA)
@@ -12,6 +13,8 @@ weight = 40
 **TL;DR : le mieux n'est pas d'opposer Lean à Agile mais de les considérer comme complémentaires; plus fort ensemble**
 
 ## Lean & Agile complémentaires
+
+> There was a connection between lean manufacturing and agile software from the beginning in that many of the developers of the various agile methods were influenced by the ideas of lean manufacturing. [...] Lean manufacturing and agile software methods have a very similar philosophy. Both place a lot of stress on adaptive planning and a people focused approach. As a result lean's ideas fit in very well with the agile software story. [^1]
 
 Lean et Agile sont deux variantes d’un même mouvement dans l’industrie du logiciel. Elles
 se concentrent sur la livraison efficace de produits dont les clients ont réellement besoin. La
@@ -38,6 +41,13 @@ Agile et Lean sont des concepts généraux dont
 > All we are doing is looking at the time line, from the moment the customer gives us an order to the point when we collect the cash. And we are reducing that time line by removing the non-value-added wastes.
 
 Le Lean Management concerne la gestion des équipes mais aussi des ressources matérielles et immatérielles (gestion globale), tandis que les méthodologies agiles sont appliquées pour la gestion du cycle de vie des projets (gestion locale).
+
+### Amélioration
+La principale différence entre ces deux méthodes réside dans leur objet :
+
+- La méthode Lean est focalisée sur *l’amélioration des processus*.
+- La méthode Agile est focalisée sur *l’amélioration des produits*.
+
 
 ### Autres différences 
 
@@ -67,3 +77,5 @@ En reprenant les principes des deux mouvements, on pourrait dire :
 Lean et Agile sont des approches complémentaires, et non pas en concurrence l'une avec l'autre
 
 > On peut faire de la musique avec un seul instrument, mais c'est souvent plus beau avec un orchestre ! Bien vu donc, Agilité et Lean main dans la main. 
+
+[^1]: [Agile Versus Lean - Martin Fowler](https://martinfowler.com/bliki/AgileVersusLean.html)

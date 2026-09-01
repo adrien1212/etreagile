@@ -1,6 +1,6 @@
 +++
 title = "Philosophie"
-description = "Ce qu'est l'agilité avant d'être un framework : sa doctrine, ses racines Lean, et les cycles de vie qu'elle oppose au modèle prédictif."
+description = "Ce qu'est l'agilité avant d'être un framework : les raisons de l'adopter, sa doctrine, et ses racines Lean."
 weight = 20
 comments = true
 +++
@@ -15,8 +15,8 @@ Le chapitre précédent a raconté **d'où vient** l'agilité. Celui-ci s'attach
 
 Trois entrées :
 
-- [Philosophie Agile]({{< relref "philosophie/philosophie_agile/index" >}}) — le Manifeste et ses principes, les raisons de devenir agile, la qualité logicielle.
+- [Pourquoi devenir Agile ?]({{< relref "philosophie/pourquoi_agile/index" >}}) — les sept raisons qui motivent le passage à l'agilité : encaisser l'incertitude et le changement, livrer de la qualité, remettre l'humain au centre, rendre l'équipe propriétaire de son processus, engager le client et produire de la valeur.
+- [Philosophie Agile]({{< relref "philosophie/philosophie_agile/index" >}}) — le Manifeste et ses principes, la définition de l'agilité, la croix de fer.
 - [Philosophie Lean]({{< relref "philosophie/philosophie_lean/index" >}}) — les racines industrielles dont l'agilité hérite une grande partie de son vocabulaire.
-- [Cycles de vie et produit]({{< relref "philosophie/cycles_de_vie/index" >}}) — prédictif, itératif, incrémental : ce que change concrètement le cycle de vie retenu.
 
 ![Philosophie](static/illustrations/philosophy.png)

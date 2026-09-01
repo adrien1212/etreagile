@@ -6,6 +6,7 @@ weight = 10
 
 > [!ressource] Ressources
 > - [Waterfall document d'origine par Royce - Managing the development of large software systems](https://www.praxisframework.org/files/royce1970.pdf)
+> - [🚩 Why Waterfall was a big misunderstanding from the beginning – reading the original paper](https://pragtob.wordpress.com/2012/03/02/why-waterfall-was-a-big-misunderstanding-from-the-beginning-reading-the-original-paper/)
 > - [Explication du Waterfall en se basant sur Royce](http://beza1e1.tuxen.de/waterfall.html)
 > - [Erik Moberg - The Waterfall Model Does Not Exist - YouTube](https://youtu.be/L4ElOdbiTqQ)
 > - [https://www.youtube.com/watch?v=NP9AIUT9nos](https://www.youtube.com/watch?v=NP9AIUT9nos)
