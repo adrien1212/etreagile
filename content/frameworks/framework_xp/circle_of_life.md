@@ -8,6 +8,7 @@ weight=20
 > - Clean Agile - Chapitre 1 - section "Le cercle de vie"
 > - [https://www.gemserk.com/sum/xp/guidances/concepts/xp_practices_36E149F4.html](https://www.gemserk.com/sum/xp/guidances/concepts/xp_practices_36E149F4.html)
 > - [The 4 Circles of Extreme Programming](https://jdmeier.com/4-circles-of-extreme-programming/)
+> - [What is Extreme Programming? (Practices)](https://ronjeffries.com/xprog/what-is-extreme-programming/)
 
  Ce diagramme présente les pratiques fondamentales de l'Extreme Programming d'une manière qui les rend faciles à mémoriser
 
