@@ -61,7 +61,7 @@ Autrement dit, le déplacement se fait à l'intérieur des 3C, de la Carte vers 
 
 **[S]({{< relref "pratiques/user_stories/rediger_us/stories_invest#small" >}}) — Small : le critère qui protège du tunnel.** C'est la taille du lot qui distingue le SDD d'un [retour au Waterfall]({{< relref "naissance_agile/methodologie_waterfall/definition" >}}). Rien n'empêche techniquement de demander à une IA un PRD couvrant six mois — sauf la discipline.
 
-**[T]({{< relref "pratiques/user_stories/rediger_us/stories_invest#testable" >}}) — Testable : le critère qui devient le mécanisme de contrôle.** C'est le seul moyen de vérifier le travail de l'agent sans relire chaque ligne, d'où l'importance renouvelée du [TDD]({{< relref "frameworks/framework_xp/circle_of_life" >}}) et d'une [Definition of Done]({{< relref "frameworks/framework_scrum/artefact_engagements/definition_of_done" >}}) explicite. Une story non testable n'est plus « perfectible » : elle est **invérifiable**.
+**[T]({{< relref "pratiques/user_stories/rediger_us/stories_invest#testable" >}}) — Testable : le critère qui devient le mécanisme de contrôle.** C'est le seul moyen de vérifier le travail de l'agent sans relire chaque ligne, d'où l'importance renouvelée du [TDD]({{< relref "frameworks/framework_xp/pratiques" >}}) et d'une [Definition of Done]({{< relref "frameworks/framework_scrum/artefact_engagements/definition_of_done" >}}) explicite. Une story non testable n'est plus « perfectible » : elle est **invérifiable**.
 
 > [!affirmation] Affirmation
 > INVEST et les 3C ne changent pas de contenu. Ils changent de statut : ils passent de **conseils de qualité** à **conditions de fonctionnement**.

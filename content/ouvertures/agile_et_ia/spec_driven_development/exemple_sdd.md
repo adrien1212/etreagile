@@ -56,7 +56,7 @@ Enfin, les tâches accomplies sont cochées (`[X]`) directement dans le fichier 
 
 Et finalement on demande à l'IA d'implémenter le code (`/speckit.implement`), tâche par tâche, en suivant l'ordre des phases.
 
-C'est ici que le [TDD]({{< relref "frameworks/framework_xp/circle_of_life" >}}) prend toute son importance : c'est le seul mécanisme qui permet de vérifier que l'agent a produit ce que la spécification demandait, sans relire chaque ligne.
+C'est ici que le [TDD]({{< relref "frameworks/framework_xp/pratiques" >}}) prend toute son importance : c'est le seul mécanisme qui permet de vérifier que l'agent a produit ce que la spécification demandait, sans relire chaque ligne.
 
 ## Ce que cet exemple révèle
 

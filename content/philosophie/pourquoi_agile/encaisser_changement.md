@@ -40,7 +40,7 @@ C'est ici que l'agilité se distingue vraiment. Elle ne se contente pas de *déc
 > [!definition] Le lien avec la qualité
 > Un logiciel qu'on ne peut pas modifier sans tout casser rend le changement coûteux, quelle que soit la méthode employée. **L'accueil du changement est une propriété technique avant d'être une posture managériale.** C'est tout l'objet de la [courbe du coût du changement]({{< relref "philosophie/pourquoi_agile/produit_haute_qualite/qualite_logicielle/cout_changement" >}}) et de la [dette technique]({{< relref "philosophie/pourquoi_agile/produit_haute_qualite/qualite_logicielle/dette_technique" >}}).
 
-Les pratiques qui font baisser ce coût sont, sans surprise, les [pratiques techniques de XP]({{< relref "frameworks/framework_xp/circle_of_life" >}}) :
+Les pratiques qui font baisser ce coût sont, sans surprise, les [pratiques techniques de XP]({{< relref "frameworks/framework_xp/pratiques" >}}) :
 
 - **Les tests automatisés** — sans filet, toute modification est un pari. Avec un filet, elle devient une opération courante.
 - **Le refactoring continu** — maintenir la conception habitable au lieu de la laisser se dégrader.
