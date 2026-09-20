@@ -24,6 +24,8 @@ C'est une position singulière, et elle a une raison d'être : XP part du consta
 
 Voir [Coût du changement]({{< relref "philosophie/pourquoi_agile/produit_haute_qualite/qualite_logicielle/cout_changement" >}}) et [Naissance de XP]({{< relref "frameworks/framework_xp/naissance/index" >}}).
 
+![cout de changement xp](images/costofchange.png)
+
 ## Pour qui XP a-t-il été conçu ?
 
 Kent Beck est explicite sur le périmètre qu'il revendique, et le rappeler évite bien des malentendus :
@@ -52,5 +54,3 @@ C'est le sens de lecture à garder : une pratique isolée de sa valeur devient u
 
 - la **première édition (1999)** décrit **12 pratiques** ;
 - la **seconde édition (2004)** les réorganise en **13 pratiques primaires** et **11 pratiques corollaires**.
-
-Ce cours suit la première édition, qui est celle que reprend la page [Pratiques]({{< relref "frameworks/framework_xp/pratiques" >}}) et qui reste la plus citée.
