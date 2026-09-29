@@ -468,6 +468,7 @@ l'environnement pèse autant que l'outillage :
 
 https://youtu.be/rrkrvAUbU9Y
 
+
 Selon la Théorie de l'autodétermination (TAD) la motivation s'appuie sur trois besoins psychologiques :
 - l'autonomie : que nous avons évoqué quelques paragraphe plus haut
 - la compétence : le sentiment d'être bon dans ce que l'on fait
