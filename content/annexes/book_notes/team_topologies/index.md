@@ -9,3 +9,4 @@ weight = 30
 
 > [!Ressource] Ressources
 > - https://teamtopologies.com/
+> - https://techblog.deepki.com/team_topologies/

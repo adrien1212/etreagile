@@ -152,6 +152,8 @@ celle sur laquelle une équipe isolée a le moins de prise.
 Reste alors la question difficile : par quels moyens concrets agir sur ce
 système ?
 
+TODO : voir également cet article https://techblog.deepki.com/team_topologies/
+
 
 ### Sa frontière
 
@@ -328,6 +330,43 @@ Cela ne dispense pas le management de sa part. Une équipe qui produit à chaque
 [rétrospective]({{< relref "philosophie/pourquoi_agile/proprietaire_processus" >}})
 des actions qu'elle n'a pas le pouvoir d'appliquer ne fabrique pas de
 l'amélioration, elle fabrique du cynisme.
+
+### Un management Lean
+
+Encore faut-il savoir ce que ce management doit regarder. Le Lean lui donne un
+objet précis : non pas l'occupation des personnes, mais le
+[gaspillage]({{< relref "philosophie/philosophie_lean/lean_software_development/elimine_gaspillage" >}}),
+c'est-à-dire tout ce qui retarde la valeur pour le client sans y contribuer. Là
+où l'agilité s'attache surtout à améliorer le produit, le Lean s'attache au
+processus qui le produit, de bout en bout ; les deux se
+[complètent]({{< relref "philosophie/philosophie_lean/lean_vs_agile" >}}) plus
+qu'ils ne s'opposent.
+
+Parmi les gaspillages recensés par les Poppendieck, l'un dépasse tous les
+autres : les fonctionnalités inutiles. Le temps d'attente coûte des jours ; construire
+la mauvaise chose coûte tout le travail investi. Aucune optimisation du flux ne
+rattrape un produit dont personne ne se sert.
+
+C'est là que le Lean rejoint l'itération. Dans un
+[cycle prédictif]({{< relref "philosophie/pourquoi_agile/encaisser_incertitude/cycles_de_vie" >}}),
+on suppose le besoin connu d'avance et l'on déroule un plan : le premier retour
+réel de l'utilisateur arrive à la fin, quand il ne peut plus rien changer. En
+[travaillant par itérations]({{< relref "philosophie/pourquoi_agile/encaisser_incertitude/cycle_de_vie_agile" >}}),
+chaque incrément est mis devant l'utilisateur et le retour arrive en quelques
+semaines. On ne parie plus une fois sur le bon produit, on le vérifie à chaque
+cycle — et l'on a d'autant plus de chances de construire la bonne chose.
+
+L'itération a un second effet, moins visible : elle remet le périmètre en jeu à
+chaque cycle. À chaque début d'itération, l'équipe ne travaille que sur ce qui a
+aujourd'hui la plus haute priorité pour le client, et ce qui a perdu de sa valeur
+entre-temps n'est jamais construit. Le périmètre n'est plus un engagement figé
+en début de projet, mais une variable qu'on ajuste en continu avec le
+[client]({{< relref "philosophie/pourquoi_agile/engager_client" >}}).
+
+> [!affirmation] Affirmation
+> Le gaspillage le plus coûteux n'est pas de mal construire, c'est de construire
+> la mauvaise chose. Le feedback de chaque itération et la repriorisation qui le
+> suit en sont la principale protection.
 
 ## L'individu
 
